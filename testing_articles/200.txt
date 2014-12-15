@@ -1,0 +1,47 @@
+Google Wins $35 Million US Government Contract Over Microsoft
+Research in Motion Ltd. via Bloomberg
+A prototype of Research in Motion Ltd.'s new BlackBerry 10 device.
+A prototype of Research in Motion Ltd.'s new BlackBerry 10 device. Source: Research in Motion Ltd. via Bloomberg
+Research In Motion Ltd. (RIM), trying to
+pull out of a sales slump, moved a step closer to the debut of a
+new BlackBerry smartphone by releasing as many as 2,000
+prototypes to developers.
+The touch-screen devices, which have a 4.2-inch display and
+resemble a scaled-down version of the PlayBook tablet, are being
+distributed today to developers at RIM’s BlackBerry Jam event inOrlando,Florida. The prototypes lack the physical keyboard that
+has been a hallmark of most BlackBerrys.
+“What we’re doing is giving them hardware they can build
+on, so they can feel confident that the work that they do, the
+behavior they see on their applications, will carry forward onto
+the launch hardware,” said Christopher Smith, a vice president
+in charge of handheld application platform and tools at
+Waterloo, Ontario-basedRIM. (RIMM)
+The new BlackBerry 10 lineup, due to hit stores this year,
+is the linchpin of RIM’s strategy torevive growth. Sales at the
+company tumbled 25 percent last quarter, with U.S. revenue
+plummeting more than 50 percent. The old BlackBerry, best-suited
+for checking e-mail and other business functions, had struggled
+to keep up with the Web capabilities and apps ofApple Inc. (AAPL)’s
+iPhone and Google Inc.’s Android devices.
+The prototypes will come loaded with an early version of
+the BlackBerry 10 operating system. That will help developers
+start building apps before the official release, Smith said.
+Even so, the test systems won’t look exactly like the finished
+product, he said.
+“It’s not going to be the same hardware platform, but it’s
+certainly going to be representative,” Smith said. RIM hasn’t
+said when the first BB10 phone will be released beyond
+indicating it will be in the latter part of 2012.
+RIM is releasing a developer tool kit that includes
+software called Cascades, which will help build graphic-rich
+applications. It also offers support for HTML5, the broadly
+popular programming language.
+The app developers that have already pledged to create apps
+for BlackBerry 10 include mobile search-engine makerPoynt Corp. (PYN)and video-game companyGameloft SA. (GFT)
+“We’re seeing a lot of excitement and I expect it to
+continue,” Smith said.
+To contact the reporter on this story:
+Hugo Miller in Toronto athugomiller@bloomberg.net
+To contact the editor responsible for this story:
+Nick Turner atnturner7@bloomberg.net
+

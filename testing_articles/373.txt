@@ -1,0 +1,80 @@
+Hurdles lurk, but Harper on path to stardom
+
+Kobe Bryant,Pau Gasol,Andrew Bynum,Los Angeles Lakers,What to watch,Mike Brown,Kobe Bryant,Los Angeles Lakers,Pau Gasol,Andrew Bynum,Mike Brown,Denver Nuggets,George Karl,Steve Blake,Game 2,Devin Ebanks,Al Harrington,JaVale McGee,Ty Lawson,Danilo Gallinari
+Connect with Facebook to share your ESPN activities.Learn more »
+Learn about sharing your ESPN activites on Facebook »
+Close
+Before joining ESPN Los Angeles, Brian and Andy hosted Lakers Blog for the Los Angeles Times from 2005 to 2009. They host the ESPN Kamenetzky Brothers Lakers PodKast and frequently appear on ESPN Radio 710. As contributors for ESPN The Magazine and ESPN.com, they have written about virtually every sport known to mankind.
+Send questions and comments »
+var podplayer = new flashObj();
+podplayer.flashFile = "http://a.espncdn.com/swf/espnradio/09/audio_player_circular_v2.swf";
+podplayer.flashVars = "&innerCircleTint=DDDDDD&innerCircleTintPercent=70&soundLink=http://c.espnradio.com/audio/956569/kamenetzky_2012-04-25-182209.mp3";
+podplayer.width = "86";
+podplayer.width = "86";
+podplayer.height = "70";
+podplayer.scale = "noorder";
+podplayer.salign="lt";
+podplayer.wmode = "transparent";
+podplayer.allowScriptAccess = "Always";
+podplayer.allowNetworking = "All";
+podplayer.DenyIEdl = "TRUE";
+podplayer.FlashVer = 8;
+podplayer.cabVersion = "8,0,0,0";
+podplayer.altTxt = "";
+podplayer.ID = "flashPodcastSwf";
+podplayer.render(true);Andy and Brian talk with Jack Black about his new movie "Bernie," music and his beloved Lakers as the playoffs approach.Podcast Archive »
+var podplayer = new flashObj();
+podplayer.flashFile = "http://a.espncdn.com/swf/espnradio/09/audio_player_circular_v2.swf";
+podplayer.flashVars = "&innerCircleTint=DDDDDD&innerCircleTintPercent=70&soundLink=http://c.espnradio.com/audio/950347/kamenetzky_2012-04-21-012647.mp3";
+podplayer.width = "86";
+podplayer.width = "86";
+podplayer.height = "70";
+podplayer.scale = "noorder";
+podplayer.salign="lt";
+podplayer.wmode = "transparent";
+podplayer.allowScriptAccess = "Always";
+podplayer.allowNetworking = "All";
+podplayer.DenyIEdl = "TRUE";
+podplayer.FlashVer = 8;
+podplayer.cabVersion = "8,0,0,0";
+podplayer.altTxt = "";
+podplayer.ID = "flashPodcastSwf";
+podplayer.render(true);Andy and Brian discuss how the Lakers look with the postseason approaching and how well Mike Brown has prepared the team.Podcast Archive »
+var podplayer = new flashObj();
+podplayer.flashFile = "http://a.espncdn.com/swf/espnradio/09/audio_player_circular_v2.swf";
+podplayer.flashVars = "&innerCircleTint=DDDDDD&innerCircleTintPercent=70&soundLink=http://c.espnradio.com/audio/935657/kamenetzky_2012-04-10-175157.mp3";
+podplayer.width = "86";
+podplayer.width = "86";
+podplayer.height = "70";
+podplayer.scale = "noorder";
+podplayer.salign="lt";
+podplayer.wmode = "transparent";
+podplayer.allowScriptAccess = "Always";
+podplayer.allowNetworking = "All";
+podplayer.DenyIEdl = "TRUE";
+podplayer.FlashVer = 8;
+podplayer.cabVersion = "8,0,0,0";
+podplayer.altTxt = "";
+podplayer.ID = "flashPodcastSwf";
+podplayer.render(true);Andy and Brian talk with former Guns N' Roses bassist Duff McKagan about the band's explosive history, his new book, and a plan to bring the Sonics back to Seattle!Podcast Archive »
+var podplayer = new flashObj();
+podplayer.flashFile = "http://a.espncdn.com/swf/espnradio/09/audio_player_circular_v2.swf";
+podplayer.flashVars = "&innerCircleTint=DDDDDD&innerCircleTintPercent=70&soundLink=http://c.espnradio.com/audio/930971/kamenetzky_2012-04-07-034711.mp3";
+podplayer.width = "86";
+podplayer.width = "86";
+podplayer.height = "70";
+podplayer.scale = "noorder";
+podplayer.salign="lt";
+podplayer.wmode = "transparent";
+podplayer.allowScriptAccess = "Always";
+podplayer.allowNetworking = "All";
+podplayer.DenyIEdl = "TRUE";
+podplayer.FlashVer = 8;
+podplayer.cabVersion = "8,0,0,0";
+podplayer.altTxt = "";
+podplayer.ID = "flashPodcastSwf";
+podplayer.render(true);"Andy and Brian ask if Blake Griffin is officially Public Enemy No. 1 among Lakers fans, preview potential first round playoff opponents, and kick around the latest I'm the Dwight Howard saga."Podcast Archive »
+Full Scoreboard »
+Complete Schedule »Tickets  »
+Complete Standings »
+Complete Team Stats »

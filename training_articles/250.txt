@@ -1,0 +1,132 @@
+Oracle And The End Of Programming As We Know It
+HTC ONE X: Weighing at a cool 130grams with a 720 x 1280 LCD screen and 32GB of built-in memory.
+REVIEW:With new smartphones hitting the street on weekly basis and each sporting yet another new set of killer features, HTC's latest flagship smartphone needs to impress in order to foot it with other handsets from manufacturers like Samsung and Apple.
+LOOK AND FEEL
+Un-boxing the One X, the most immediately noticeable feature was its Gorilla Glass screen which goes all the way to the edges of the phone's curvy smooth polycarbonate chassis.
+At 4.7 inches, the One X feels like it's all screen, yet thanks to its pocketable weight (130g) and svelte design (it's a mere 8.9mm thick), it felt pretty comfy in the hand.
+This isn't to say that the One X is perfect, it has its share of small niggles; For a start its back isn't removable, which means you can't easily swap out the battery, which in turn limits the device's life expectancy.
+Whilst the One X has 32GB of memory built-in (plenty for most purposes), a microSD card slot would also have been useful for power users or those with large media collections.
+Powering it up saw its 720 x 1280 LCD screen sprint to life. On-screen colours were brilliantly vivid and images were pin-sharp and richly detailed.
+It might not have the largest amount of pixels per square inch (especially compared to the iPhone 4S), but it's near enough. The result is an incredibly sharp display.
+IN USE
+The bulk of the hype surrounding the One X centres around its muscular fast quad core processor (which is said to be among the fastest powering any other smartphone on the market).
+However I didn't notice any huge performance gains aside from the fact that the phone never lagged, stuttered or faltered.
+What I did notice was it was silky smooth to drive and for an Android phone had a solid battery life, giving close to two days use from of a single charge.
+Perhaps the best stand-out features for me was the excellent rear mounted 8 mega-pixel camera, which is easily on a par with just about any budget point and shoot digital camera I've reviewed.
+Not only did it take some of the sharpest images I've seen from a phone camera, it also came with a bunch of nifty editing features.
+Add to this the fact that HTC have also handily provided 25Gb of online storage via Dropbox, for free, for two years, and the One X could quickly become indispensable.
+The One X is also the only smart phone available running Android 4.0 (AKA Ice Cream Sandwich).
+HTC have also added a few of their own wrinkles in the form of the newly refreshed "Sense" custom interface.
+From the attractive and intuitive unlock screen, the One X's custom interface sports some small but really useful tricks. Reject any incoming call and the One X can automatically send a text message saying 'I'll call you right back' (or whatever you tell it to say by default) and it'll also cleverly remind you so you won't forget about returning the call.
+Other nice touches include the seemingly endless supply of widgets HTC have bundled in. Anything from managing contacts, to keeping an eye on social media or even cranking out basic documents are all present and accounted for in widget form and can be added to any one of the One X's seven home screens.
+The HTC One X's contacts interface also really stands out.
+If you need to find a contact, simply start typing their name or number using the on screen keypad, which will then display a narrowed down the list.  Once a contact has been selected you can also check out their Facebook and Twitter feeds (assuming you've linked them up).
+Calls made on the HTC One X deliver consistently good audio quality, even in loud environments such as shopping malls or a busy city street. One of the main reasons for this is the addition of a noise cancelling microphone to ensure your voice isn't drowned out by ambient background noises.
+Audio from the One X's earpiece was also loud and clear.
+Using it to surf the web was pretty close to perfect. With HSPA+, webpages flew onto its screen and were accurately rendered. The optional addition of Flash support also greatly helped the surfing experience.
+Zooming in, panning around and generally interacting with a web content was also faultless, especially given the One X's stunning screen.
+One killer feature that really stood out was the addition of a "Read button". Tap this and an easy to read, ad free version of whatever site you're on is loaded. Here's hoping other phone makers cotton onto this one sooner rather than later.
+VERDICT
+About the only feature missing from the HTC One X is the kitchen sink. Not only is its HD screen one of the nicest I've used on a smartphone, but the phone was also extremely smooth in use (thanks to its quad core processor) and its integrated camera.
+Design-wise it is also a smart looking device. While it does have some shortcomings, none of these were deal breakers in real world, day-to-day use and as such it's easily one of the best Android smartphones on the market.
+SPECIFICATIONS
+RRP$ (varies depending on mobile plan)
+Dimensions (mm): 134.36 x 69.9 x 9.29
+Weight (g): 130
+Screen:4.7" LCD, 320ppi, 1280 x 720
+CPU: 1.5 GHz quad core
+RAM: 1GB
+Internal memory: Up to 28GB
+OS: Android 4.0 (with HTC Sense 4.0)
+Review: House of Marley headphones
+
+I think he means that it is the only factory installed ICS implementation.. either way who cares, the comment trolls on stuff are really painful
+
+I have been a longtime apple iPhone fan having owned all the iphon models up to the 4 s, over the weekend I saw this HTC one x at telecom, out of pure interest I had a play with it. Within 5 mins I had brought one. And I have to say its a lure powerhouse phone faster than anything I've seen o owned before including my 4s and I do love the android operating system its very polished and smart. Sorry apple your 4s just font cut it. It's now on trademe, this one x is a more superior mobile platform.
+
+'The One X is also the only smart phone available running Android 4.0"
+What? my 4 year old HD2 runs ICS fine...
+
+'One killer feature that really stood out was the addition of a "Read button". Tap this and an easy to read, ad free version of whatever site you're on is loaded. Here's hoping other phone makers cotton onto this one sooner rather than later.'
+Apple have had this feature built into Safari (on both Mac OS X and iOS) for quite a long time now...
+Doing away with a user-removeable battery generally means the phone is more attractive, and thinner. In 2012, where we replace/upgrade our phones more often, longevity isn't an issue. I don't consider this to be a negative.
+And we need to stop supporting the myth that Flash is necessary when browsing the web on a mobile device. HTML5 won that battle a long time ago.
+Still, nice to see that Samsung aren't the only decent Android manufacturer out there...although I suspect that the S3 will be superior.
+
+have you come across the current lock screen bug that doesn't allow you to unlock the screen without having to go into the settings menu from the notifications bar?
+and how the phone heats up really quickly at the upper end of the phone behind the earpiece (after 10 mins of use on the internet)? this i suspect is from the four processors not having enough ventilation to cool down efficiently?
+
+@ resolution comments,Please I'm not looking to "troll" this review but 300+ Pixel per inch technology has existed for over 2+ years with the Retina display.
+Its interesting to see how the S3 will also go,to see if it will finally break 300+.So far the G/Note is 285ppi.Glad to hear that companies have focused on pixels rather than just screen size.
+
+There are a bunch of smartphones that are running ICS, so the One X is NOT the only one. Samsung Galaxy S2 now has it avaliable for upgrade!
+
+This phone is sweet, made from poly carbon, which is stronger and lighter than metal. It can Wireless to your tv and send video to it and with the power of the quad-core even take a call while the video is still playing. And it can take a photo at 0.2 seconds (clickc click) and is so lite for a 4.7 inch screen. I Highly recommend this phone, far superior to iphone 4s.
+
+I purchased this phone and so far this is better than any other windows, and apple phone that i've ever had... so easy to use, wuick, good sound quality. Running on the telecom network without issue (enough said)
+
+I purchased this phone and so far this is better than any other windows, and apple phone that i've ever had... so easy to use, wuick, good sound quality. Running on the telecom network without issue (enough said)
+Maximum of 1750 characters (about 300 words)
+Call of Duty: Black Ops 2 announced
+Bionic eye dream close to reality
+Googlemobile inches closer
+Minister holds off on digital price probe
+Icy caves setting for Mars mission tests
+Kim Dotcom's lawyer claims raid was unlawful
+BlackBerry unveils Dev Alpha and new OS
+Louis CK among Webby Awards winners
+Facebook asks for organ donor status
+Review: HTC One X
+Preview: Crysis 3 for PC
+Review: Mario Party 9 for Wii
+Data sharing risk to privacy, Shroff warns
+Aus investigates digital price discrepancies
+Sacked for repackaging old meat
+$15k fine for running over mate
+Baby snatcher expecting child
+Banks, Williamson picked to stand down
+Chainsaw, samurai sword used in brawl
+APN reviews Herald ownership
+Travel's 'WTF' moments
+Calls to dismiss Cartwright from Tribunal
+Fuel prices should be lower: AA
+Key happy with assurances from Banks
+Jailed for carjacking mum and daughter
+Rena captain, second officer say sorry
+Taxi firm fined for 'short skirt' firing
+Woman who tossed lotto ticket entitled to $1.2m
+Waters' ice to water guess wins $310,000
+Powerball winner Trev quits the day job
+Mob rejects ban on graves insignia
+Daily trivia quiz: May 2
+Student-loan borrowers face Budget pay-cut
+Jessica Simpson gives birth to a girl
+World champion swimmer dies suddenly
+Mains, Graham to sue Dunedin mayor
+Ruling: Jesus doesn't heal cancer
+Woman who tossed lotto ticket entitled to $1.2m
+Taxi firm fined for 'short skirt' firing
+Jesus billboard claim on Facebook
+Kitchen House cupboards bare for unsecured creditors
+Crowne Plaza demolition captured
+Uneasy rider sues over bike-induced erection
+Crowne Plaza demolition captured
+Mob rejects ban on graves insignia
+Student-loan borrowers face Budget pay-cut
+Ruling: Jesus doesn't heal cancer
+Powerball winner Trev quits the day job
+Murdoch 'unfit to lead his empire'
+Student-loan borrowers face Budget pay-cut
+One in seven thinks end of world is coming
+Three-bin idea 'a little tough'
+Powerball winner Trev quits the day job
+Teen hit by bus on Manners St
+Liquor bill a 'diversion'
+Porirua cemetery set to ban gang insignia
+The Hair-vengers
+The working parent's dilemma
+Five questions Banks must answer
+Breaking news?
+Send us your photos, videos and tip-offs:
+Emailnewstips@stuff.co.nz
+Phone0800 697 8833

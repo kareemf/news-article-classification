@@ -1,0 +1,28 @@
+China's fight against bribery and corruption
+By PAMELA SAMPSON, AP Business Writer
+–8 minutes agoif (gbar.lPWF) {
+                        gbar.lPWF(function() {
+                          gapi.plusone.render('plusone-div',
+                              { "size" : "small",
+                                "count" : "true",
+                                "href" : "http://www.google.com/hostednews/ap/article/ALeqM5j4OM9okeIyXg0O6MrIg_FWEXLm5A?docId\x3d2133a1678f8b4a4e96d05d7d089f643e"
+                              });
+                        });
+                      }
+                      sandbarSharebox.registerMicrodataParser(
+                          window.top, document.getElementById('hostednews-article'));
+BANGKOK (AP) — Asian stock markets rose Wednesday after a burst of manufacturing growth in the U.S. pushed the Dow Jones industrial average to its highest close in more than four years.
+Japan's Nikkei 225 rose 0.7 percent to 9,414.36 after a sharp tumble the day before. Other Asian markets opened higher following public holidays. Hong Kong's Hang Seng gained 1.2 percent to 21,255.56. Benchmarks in Taiwan and mainland China posted strong gains.
+Australia's S&amp;P/ASX 200 edged up 0.2 percent to 4,437.90. Singapore, Indonesia and Thailand also rose.
+Data showing moderate manufacturing growth in the world's two largest economies was the driver of sentiment, analysts said.
+U.S. manufacturing expanded last month at its strongest pace since June, the Institute for Supply Management said Tuesday. Orders, hiring and production all rose, while a measure of manufacturing employment reached a nine-month high.
+That news came on top of a similar report out of China, the world's No. 2 economy. The state-affiliated China Federation of Logistics and Purchasing said its purchasing managers index rose 0.2 percentage points to 53.3 percent in April, up from March's 53.1 and February's 51.0. A reading above 50 signifies expansion.
+Ric Spooner, chief market analyst at CMC Markets in Sydney, said a good U.S. earnings season and an improving outlook in China were helping to boost stock markets.
+"I think there is emerging confidence that we can look for a relatively benign — or soft landing — to growth in China," he said.
+Still, traders were looking ahead to Friday for further clues about the strength of the U.S. economy, when the Labor Department releases monthly jobs figures for April.
+Among individual stocks, one of Australia's largest banks, ANZ Banking Group, fell 0.8 percent despite posting a 10 percent increase in its first half profit after warning margins in its Australian business were declining.
+Hong Kong-listed GOME Electrical Appliances Holdings, China's second-biggest electrical appliance retailer, plummeted 10 percent. That was an aftershock from a company statement Monday warning of a significant decline in first quarter profit due to a drop in sales revenue and losses in its e-commerce business.
+The Dow Jones industrial average rose 0.5 percent to close at 13,279.32. The Standard & Poor's 500 rose 0.6 percent to 1,405.82. The Nasdaq composite rose 0.1 percent to 3,050.44.
+Benchmark oil for June delivery was down 18 cents to $105.98 per barrel in electronic trading on the New York Mercantile Exchange. The contract rose $1.29 to finish at $106.16 per barrel in New York.
+In currencies, the euro fell to $1.3224 from $1.3228 late Tuesday in New York. The dollar rose to 80.34 yen from 80.21 yen.
+Copyright ©  2012   The Associated Press. All rights reserved.

@@ -1,0 +1,38 @@
+Double-drug diabetes treatment disappoints in kids
+Published: May 01, 2012
+Reviewed byZalman S. Agus, MD; Emeritus Professor, Perelman School of Medicine at the University of Pennsylvania.
+
+
+
+Brachytherapy may not be a suitable substitute for conventional radiation among older women with breast cancer, a population-based study determined.
+Among Medicare patients, the radioactive seed treatment was associated with significantly higher rates of subsequent mastectomy over 5 years and more complications than was whole breast irradiation, Benjamin D. Smith, MD, of the University of Texas MD Anderson Cancer Center in Houston, and colleagues found.
+Brachytherapy also failed to improve overall survival at 5 years (87.66% versus 87.04%, adjusted hazard ratio 0.94,P=0.26), they reported in the May 2 issue of theJournal of the American Medical Association.
+Numbers needed to harm by treating with brachytherapy instead of standard therapy were 56 for unnecessary mastectomy, nine for post-operative complications, and 16 for all post-radiation complications.
+"Although these results await validation in the prospective setting, they also prompt caution over widespread application of breast brachytherapy outside the study setting," the researchers cautioned.
+Randomized trials underway are years from providing long-term data on brachytherapy, they noted.
+However, use has rapidly risen because the treatment irradiates less breast tissue and allows a much shorter course of therapy.
+In the Medicare population treated with lumpectomy, brachytherapy use rose from just 3% in 2003 to 12% in 2007 (P<0.001 for trend), making the potential public health implications substantial, Smith's group pointed out.
+They looked at data from the entire fee-for-service Medicare population, which included 92,735 women, age 67 or older, with incident invasive breast cancer. They were diagnosed from 2003 to 2007, treated with lumpectomy, and followed through 2008.
+Among these women, the 6,952 treated with brachytherapy had higher 5-year incidence of subsequent mastectomy as an indicator of failure to preserve the breast (4% versus 2% treated with whole breast irradiation,P<0.001).
+That risk remained elevated 2.19-fold after multivariate adjustment and 1.86-fold after propensity matching (bothP<0.001).
+Complication rates came in higher with brachytherapy as well. Compared with whole breast irradiation, the difference was statistically significant for the following:76% higher risk of post-operative infectious complications (16% versus 10%,P<0.001)2.03-fold higher odds of post-operative noninfectious complications (16% versus 9%,P<0.001)Breast pain incidence over 5 years(15% versus 12%,P<0.01)Fat necrosis incidence over 5 years (8% versus 4%,P<0.01)Rib fracture incidence over 5 years (5% versus 4%,P<0.01)
+No patient subgroup appeared to gain a significant clinical benefit from brachytherapy in exploratory analyses.
+The researchers cautioned that their study couldn't separate out the effects of intraoperative radiotherapy, which was too uncommon during the study period to allow analysis.
+Other limitations were possible misclassification from use of administrative claim, relatively short median follow-up, inability to confirm whether subsequent mastectomy was due to cancer recurrence, and lack of data on factors like cancer stage, histology, margins, and radiation dose.
+"Future studies are required to validate findings in younger patients with other insurance status," Smith and colleagues noted, adding that longer-term data are needed as well.
+The study was supported in part by grants from the National Cancer Institute and by a philanthropic gift from Ann Cazalot and Clarence Cazalot.
+Smith reported receiving research support from Varian Medical Systems, though it was not used for research reported in the paper.
+Smith and a co-author reported grant support from the Cancer Prevention & Research Institute of Texas.
+Primary source:Journal of the American Medical AssociationSource reference:Smith JL, et al "Association between treatment with brachytherapy vs whole-breast irradiation and subsequent mastectomy, complications, and survival among older women with invasive breast cancer"JAMA2012; 307: 1827-1837.
+
+
+
+How safe do you believe the U.S. food supply is?
+Very safe
+Safe but vulnerable
+Not very safe
+Total votes 903|16 comments
+MedPage Today® surveys are polls of those who choose to participate and are, therefore, not valid statistical samples, but rather a snapshot of what your colleagues are thinking
+
+
+This Site and third parties who place advertisements on this Site may collect and use information about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like to obtain more information about these advertising practices and to make choices about online behavioral advertising, pleaseclick here

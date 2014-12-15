@@ -1,0 +1,23 @@
+Google Sued for Suggesting Rupert Murdoch and Other Celebrities Are Jewish
+wpautop enabledThe Google engineer who built its Wi-Fi sniffing software has been identified.Photo:Sign Language/Flickr
+The Google engineer who built its Wi-Fi sniffing software has been identified.Photo:Sign Language/Flickr
+The author of a software program credited with bringing war-driving to the masses was Google’s Engineer Doe, the author of the company’s controversial Street View Wi-Fi logging program, according to areport inThe New York Times.
+The Google engineer who built the software, identified until now only as “Engineer Doe,” is Marius Milner, theTimessaid, citing an unnamed former state investigator working on a Street View inquiry.
+The practice of driving around cities and logging open wireless access points is known as war-driving, and that’s essentially what Google ended up doing with its Street View program. In the early days of Wi-Fi, it was a way to find open connections that could be used to get online for free.
+Milner, a software engineer with Google since 2003, is well known within the wireless-hacking community, according to Brad Haines, an independent security consultant known as RenderMan who has spoken on wireless hacking.
+In an audit made public in 2010, Google called its Wi-Fi logging softwareGstumbler. In retrospect, that should have been a tip-off.
+Back in the early 2000s, Milner wroteNetStumbler, a Windows tool that could be used to pinpoint wireless networks. Netstumbler was the first relatively easy-to-use Windows war-driving tool. “You still needed a very specific [wireless] card but it had a nice GUI (graphical user interface),” Haines says. “It was that iterative step of making it more accessibile to people.”
+What got Google into trouble, though, was its practice of indiscriminately logging wireless packets with its Street View cars between up until 2010. Google recorded any data traveling on unsecured wireless networks at the moment the car drove by, which included full e-mails and passwords.
+Ironically, Milner’s NetStumbler softwarewasn’t up to the task of war driving at Google-scale. It simply didn’t do the packet sniffing Google needed to grab information. So instead Google and Milner based the Street View system on a more powerful Linux program, calledKismet, that could.
+Google needed more powerful software to log the unique identifiers of routers — even ones with faint signals — to help it build its geolocation services. Doing so does not require logging the contents of the packets.
+Street View engineers intentionally stored the content on Milner’s hunch that it could be useful to know what websites people were visiting. That’s what attracted the attention of government authorities, including the United States’ Federal Communications Commission and the Department of Justice and the Federal Trade Commission. Data privacy authorities in France, Germany and South Korea, among others, also investigated the company.
+The FTC, the FCC and the DoJ allcleared Google of violating federal wiretap lawswith the program, though the FCC did fine Google $25,000 for impeding its investigation.
+Google has said that it didn’t know exactly what was being logged by the Street View cars until two years ago, when German authorities asked for details. Google immediately said the packet logging was amistake. However, the FCC document makes it clear that Milner informed his superiors about the data he wanted to collect and that someone should talk to Google’s privacy lawyers about it beforehand. That conversation never happened and the project manager told the FCC that he did not read the design document.
+Milner’s lawyer declined to comment.
+
+Subscribe to Wired Magazine
+Renew
+Give a gift
+Customer Service
+Wired.com © 2012 Condé Nast. All rights reserved. Use of this Site constitutes acceptance of ourUser Agreement(effective 3/21/12)andPrivacy Policy(effective 3/21/12).Your California Privacy Rights.
+The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.

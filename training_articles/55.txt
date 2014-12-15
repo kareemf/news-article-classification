@@ -1,0 +1,18 @@
+Carrie Underwood: 'Blown Away' and crossing over
+<!--
+	function tasksMouseOver(e) {
+		$('dashboardSubNav').show();
+		e.style.backgroundColor = '#bbbbbb';
+	}
+	function tasksMouseOut(e) {
+		$('dashboardSubNav').hide();
+		e.style.backgroundColor = '';
+	}
+//-->SIGN IN|HELP
+Jessica Simpson finally gave birth to her baby girl. She named her Maxwell Drew, and that set off a firestorm of comments over the unusual name for a female. Even so, the name has a special, personal meaning to Simpson and her fiancé Eric Johnson.
+Maxwell comes from Johnson's paternal side of the family while Drew is Simpson's mother's maiden name, so it makes sense that she and her fiancé chose this name for their daughter. That has not stopped the comments though.
+Of the concerns that people have over this unusual name, which they will shorten to "Maxi," are the concerns over being called a feminine product and for having to always use Maxwell on her formal paperwork. Even soJessica Simpsonfelt her choice was fairly traditional.
+Before Maxi was born, Simpson said, "It's nothing shocking and nothing you'll have to add to the dictionary. Still, when people hear it they'll know ... why."
+Most moms have to deal with some dissatisfaction with whatever name they choose. However, it seems as if J-Simp has to endure more negative comments than most. It's no surprise though. She's a big celebrity, and people have opinions on everything she does. It's gone on her entire pregnancy from people worried she gained too much weight to worry over her choice in shoes.
+All in all, what do you think of Maxwell Drew? Would you name your own daughter (or son for that matter) this interesting name? Do you think that Simpson's choice will make this name more popular?
+Follow me on Google+

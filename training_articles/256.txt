@@ -1,0 +1,48 @@
+Google faces lawsuit over 'Suggest' search results
+JavaScript disabled.Please enable JavaScript to use My News, My Clippings, My Comments and user settings.
+NewfeaturePersonalise your news, save articles to read later and customise settingsView Demo
+If you have trouble accessing our login form below, you can go to ourlogin page.
+The Sydney Morning Herald
+You are here:HomeTechnologyTechnology NewsArticle
+A Google 'Street View' mapping and camera vehicle.Photo: AFP
+SAN FRANCISCO:Google's harvesting of emails, passwords and other sensitive personal information from unsuspecting households in Australia and around the world was neither a mistake nor the work of a rogue engineer, as the company long maintained, but a program that supervisors knew about, according to new details from the full text of a regulatory report.
+The report, prepared by the US Federal Communications Commission after a 17-month investigation of Google's Street View project, was released, heavily redacted, two weeks ago. Although it found that Google had not violated any laws, the agency said Google had obstructed the inquiry and fined the company $US25,000. On Saturday, Google released a version of the report with only employees' names redacted.
+The full version[PDF/4.5MB] draws a portrait of a company where an engineer can easily embark on a project to gather personal emails and web searches of potentially hundreds of millions of people as part of his or her unscheduled work time, and where privacy concerns are shrugged off.
+The payload data was secretly collected between 2007 and 2010 as part of Street View, a project to photograph streetscapes over much of the civilised world. When the program was being designed, the report says, it included the following 'to do' item: "Discuss privacy considerations with Product Counsel."
+"That never occurred," the report says.
+Google says the data collection was legal. But when regulators asked to see what had been collected, Google refused, the report says, saying it might break privacy and wiretapping laws if it shared the material.
+A Google spokeswoman said Saturday that the company had much stricter privacy controls than it used to, in part because of the Street View controversy. She expressed the hope that with the release of the full report, "we can now put this matter behind us."
+Ever since information about the secret data collection first began to emerge two years ago, Google has portrayed it as the mistakes of an unauthorised engineer operating on his own and stressed that the data was never used in any Google product.
+The report, quoting the engineer's original proposal, gives a somewhat different impression. The data, the engineer wrote, would "be analysed offline for use in other initiatives." Google says this was never done.
+The report, which was first published in its unredacted form byThe Los Angeles Times, also states that the engineer, who began the project as part of his "20 per cent" time that Google gives employees to do work on their own initiative, "specifically told two engineers working on the project, including a senior manager, about collecting payload data."
+As early as 2007, the report says, Street View engineers had "wide access" to the plan to collect payload data. Five engineers tested the Street View code, a sixth reviewed it line by line, and a seventh also worked on it, the report says.
+Privacy advocates said the full report put Google in a bad light.
+"Google's rogue engineer scenario collapses in light of the fact that others were aware of the project and did not object," said Marc Rotenberg, executive director of the Electronic Privacy Information Centre. "This is what happens in the absence of enforcement and the absence of regulation."
+The Street View program used special cars outfitted with cameras. Google first said it was just photographing streets and did not disclose that it was collecting internet communications called payload data, transmitted over Wi-Fi networks, until May 2010, when it was confronted by German regulators.
+Eventually, it was forced to reveal that the information it had collected could include the full text of emails, sites visited and other data.
+Even if a user was not working on a computer at the moment the Street View car slowly passed, if the device was on and the network was unencrypted, all sorts of information about what the user had been doing could be scooped up, data experts say.
+"So how did this happen? Quite simply, it was a mistake," a Google executive wrote on a company blog in 2010. "The project leaders did not want, and had no intention of using, payload data."
+But according to the report, the engineer suggested in his proposal that it was entirely intentional: "We are logging user traffic along with sufficient data to precisely triangulate their position at a given time, along with information about what they were doing."
+Attending to paperwork did not seem to be a high priority, however. Managers of the Street View project told FCC investigators that they never read the engineer's proposal, called a design document. A senior manager of Street View said he "preapproved" the document before it was written.
+More than a dozen countries began investigations of Street View in 2010. In the United States, the Justice Department, the Federal Trade Commission, state attorneys general and the FCC looked into the matter.
+The engineer at the centre of the project cited the Fifth Amendment protection against self-incrimination. Because FCC investigators could not interview him, they said there were still unresolved questions about the case.
+The New York Times
+
+2people are reading this now.
+
+Tweet
+Some games take a very simple set of rules and build ...
+Game development used to be dominated by studios in Japan, ...
+The games industry is unrecognisable today compared to back ...
+Ever-improving technology is enabling amazing video game ...
+Skip to:
+Make the most of the rate cut. Home loans from 6.23% p.a.
+Cut Your Rate
+Lock it before you lose it. Term deposit rates from 6.01%
+Lock Your Rate
+0% intro purchase rate for 6 months. Apply by May 31st
+Credit Cards
+Free 50GB Home Broadband with $89 Timeless mobile plan
+Free 50GB Deal
+Hot smartphone deals under $40 per month
+Compare Mobile Deals

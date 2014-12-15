@@ -1,0 +1,44 @@
+Tony nominations bring kisses and disses for Broadway's big stars
+tweetmeme_url = 'http://www.thehdroom.com/news/Mark-Ruffalo-to-Hulk-Smash-in-Marvels-The-Avengers-and-Beyond/10656';  
+tweetmeme_source = 'thehdroom';ShareThere's a big, green secret ingredient on the loose in Marvel and Joss Whedon'sThe Avengers. When U.S. moviegoers flood theaters for the first domestic showings Thursday at midnight, there's no worries that Robert Downey Jr. won't own every scene he's in as fast talking and sarcastic Tony Stark aka Iron Man. What will deliver an unexpected surprise is Hulk's role in some of the film's most memorable and side-splitting scenes. In some respects, the big green guy overshadows his proportionally diminutive superhero cohorts.
+Of the four core Avengers: Iron Man, Hulk, Captain America and Asgardian God Thor, Hulk stands alone without a penciled in solo sequel film planned.Iron Man 3goes in front o the cameras in less than three weeks for a May 2013 release, withThor 2landing in November 2013 andCaptain America 2fighting for another just cause a short five months later in April 2014.
+The Avengersearly bow in overseas markets already has audiences yammering about Mark Ruffalo's accessible portrayal as often misunderstood Dr. Bruce Banner, and the exceptional CGI work on his digital Hulk model. I would wager that if an exit poll asked moviegoers which Avenger they want to see in a solo film next, Hulk would probably come out on top.
+This newfound interest in Hulk is a 180-degree turn from the character's lack of likeability coming intoThe Avengers. Marvel tried twice to bring Hulk to the big screen before; a standalone effort starring Eric Bana and an Avengers tie-in starring Edward Norton. ThoughThe Incredible Hulksuccessfully set up Banner to appear inThe Avengers, it is considered the least successful of the films attached to the franchise.
+There's good news on two fronts regarding Ruffalo's portrayal of Dr. Banner and Hulk. First, Marvel recognizes this third iteration is a hit and, per a Marvel Paul Gitter interview withForbes, are not ruling out working him into a solo feature. In order to do so, they have to work through the current backlog of projects already in some stage of development, but could put a solo Hulk film together for release in 2015. Given Hulk's warm reception before even hitting American shores, Marvel might begin early work onHulk 2by early next year to make a 2015 release.
+Don't worry about a fourth actor stepping into the role that Mark Ruffalo has successfully branded his own in only one film. In speaking toColliderduringThe Avengerspress rounds, Ruffalo let slip that his deal with Marvel to portray Dr. Banner and mo-cap Hulk is a six-movie deal. Figure thatThe Avengersis the first and Ruffalo is locked into five more films, one of which almost assuredlyThe Avengers 2.
+Look for ourThe Avengersreview either tomorrow or the next day, and stop back to follow the film's domestic box office run at records through the upcoming weekend.
+
+<!--
+google_ad_client = "pub-7503633048457414";
+/* HDR 300x250 News Embed */
+google_ad_slot = "7209327132";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->FB.init("ca548c117811a86eceb11dbad0181d05");
+var idcomments_acct = 'b6c11bb864259196c54e8f1d2ec6397f';
+var idcomments_post_id = 'http://www.thehdroom.com/articles.php?id=10656';
+var idcomments_post_url= 'http://www.thehdroom.com/news/Mark-Ruffalo-to-Hulk-Smash-in-Marvels-The-Avengers-and-Beyond/10656';Across the Web:var Scribol;
+if(typeof Scribol=='undefined'){Scribol={};  Scribol.frames=[];Scribol.site='http://scribol.com/';Scribol.is_preview=false;}
+Scribol.frames.push('753007');
+var Scribol;
+if(typeof Scribol=='undefined'){Scribol={};  Scribol.frames=[];Scribol.site='http://scribol.com/';Scribol.is_preview=false;}
+Scribol.frames.push('753007');
+
+
+
+more news
+
+BEGIN GN Ad Tag for TheHDRoom 160x600,120x600 rosif ((typeof(f200057)=='undefined' || f200057 > 0) 
+|| (typeof(f200059)=='undefined' || f200059 > 0) ) {
+  if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
+  document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.thehdroom.com/ros;sect=ros;sz=160x600,120x600;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
+}else{
+	//insert default static image here as default ad
+}END AD TAG
+
+Blu-ray Home|Blu-ray Pre-Orders|Blu-ray Cover Art
+HDR is best viewed in Firefox browsers
+<!--
+	e9 = new Object();
+    e9.size = "728x90,468x60";
+//-->

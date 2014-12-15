@@ -1,0 +1,30 @@
+Dolby Theatre
+By DAVID GERMAIN, AP Movie Writer
+–1 day agoif (gbar.lPWF) {
+                        gbar.lPWF(function() {
+                          gapi.plusone.render('plusone-div',
+                              { "size" : "small",
+                                "count" : "true",
+                                "href" : "http://www.google.com/hostednews/ap/article/ALeqM5jSbUQa1wlgZ70IwlOyQq4C6MVbNg?docId\x3dfe9da1075a604bf2ab074f3c2aefae34"
+                              });
+                        });
+                      }
+                      sandbarSharebox.registerMicrodataParser(
+                          window.top, document.getElementById('hostednews-article'));
+LOS ANGELES (AP) — You better know how to wisecrack if you're going to save the world, Joss Whedon-style.
+Whedon, creator of "Buffy the Vampire Slayer," its spinoff "Angel" and other witty TV ensembles such as "Firefly" and "Dollhouse," applies his own superpower — playful dialogue and group camaraderie — as writer and director of the superhero mash-up "The Avengers."
+The film is filled with clever interplay among its garishly costumed cast, which includes Robert Downey Jr. as Iron Man, Mark Ruffalo as the Incredible Hulk, Chris Evans as Captain America and Chris Hemsworth as Norse god of thunder Thor.
+As with Buffy or Whedon's other fantasy-based creations, the gags make the action go down more credibly as the Avengers battle Thor's wicked brother and a swarm of ugly aliens invading Earth.
+"I never write anything without humor, just because I like humor, but at the same time, it is a way for anything fantastical to become relatable," Whedon said. "Because you can always turn around and go, 'That guy's the god of thunder, and this is really happening!' And then if anybody in the audience was having a problem with that, they're sort of inoculated to it."
+It's doubtful many fans need an inoculation to get into the Avengers spirit. The Marvel Comics universe has been steering toward this all-star ensemble for years with sly teasers tacked onto such earlier hits as "Iron Man," ''Thor" and "Captain America."
+Anticipation for the film is off the charts, and having Whedon running the show reassures Marvel fanboys that it's been done right, since he's been one of them from childhood, and informs general audiences that it's worth their time, since he has a gift for taking far-out tales into the mainstream.
+The film opens in U.S. theaters May 4 and a bit earlier in many overseas territories.
+"The Avengers" were among the first comic books Whedon read as a boy. The influence of the superhero ensemble and its complicated, crazy interrelations is obvious through much of Whedon's work.
+"The great thing about this team is, there's an element of absurdity to the idea of the Avengers, and there always was. You read the first issue, and you're like, 'Really? REALLY? This is a team?'" Whedon said. "That thread kind of carried through the whole history of the Avengers, and their constant changes in lineup became almost a joke. There was this issue I read when I was a kid when a government official came in and dictated their lineup, including how many minorities needed to be included.
+"You have to let that absurdity bleed into the characters, because if you don't let the audience laugh at it, they're going to LAUGH at it, and not the way you want."
+Much of the humor derives from the growing pains the Avengers experience, squabbling among one another before they learn to work as a team. These are big egos used to having their own way, so the idea of cooperation does not come easily.
+Many of the actors were used to having their own way in solo superhero adventures, but cooperation did come easily for them, Whedon said.
+"I had concerns, but my refrain was always, 'If they hate each other, I can use it,'" Whedon said. "And at the end of the day, they just had a great time together. Everybody was really on board. Everybody was looking out for everybody else. Everybody was thrilled to work with the people they worked with and cranky because they couldn't work with the people they didn't work with.
+"It really was a positive bunch that had the kind of energy that helps pull you out of bed when you've got to shoot a movie that long."
+Copyright ©  2012   The Associated Press. All rights reserved.
+In this April 12, 2012 photo, writer and director Joss Whedon, from the upcoming film "The Avengers", poses for a portrait in Beverly Hills, Calif. The film will be released in theaters May 4. (AP Photo/Matt Sayles)

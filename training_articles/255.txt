@@ -1,0 +1,11 @@
+French group sues because Google Suggest thinks Jon Hamm is Jewish
+Worth Reading?
+
+TheHTC One Xis rightly sitting on top of the Android world for the moment, and of course that means just one thing: the modders are coming out to play. Users of the international One X (with the Tegra 3 processor) can now get a taste of the ubiquitousCyanogenModcustom ROM. The unofficial port or “kang” comes from the TripNDroid Mobile Engineering  developer team, who’ve posted their workover on the Modaco forums. Brave One X owners can flash a custom recovery and try out the ROM now.
+
+As in the majority of custom ROMs and the CyanogenMod family in particular, the initial purpose of the port is to remove HTC’s Sense UI and other non-standard software. Of course, there’s plenty of changes to the stock Android code that CyangenMod adds in as well. Most of these have to do with interface tweaks, but there’s enough truly useful stuff in there for it to be worthy of consideration by any advanced Android user.
+This version of CyanogenMod 9 Ice Cream Sandwich isn’t official, because it’s compiled from the public source code by an outside team. They’ve got most of the features working with the notable exception of both cameras and the WiFi hotspot (which you might be able to work around with a third-party option). For those of you wondering about ICS and HTC’s physical buttons on the One X, it’ll work much like HTC’s stock ROM with a menu key that appears when needed. The official CM9 team should get their own version out eventually. Remember to make a Nandroid backup, and happy flashing!
+[viaAusdroid]
+I’d like to see how well sense 4 functions before doing anything. Sense 4 has been reported to be lighter then the past, but that wont stop sense haters to hate it before even tring it out.
+
+

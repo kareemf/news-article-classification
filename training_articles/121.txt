@@ -1,0 +1,27 @@
+Association Between Treatment With Brachytherapy vs Whole-Breast Irradiation...
+(AFP)
+–13 hours agoif (gbar.lPWF) {
+                        gbar.lPWF(function() {
+                          gapi.plusone.render('plusone-div',
+                              { "size" : "small",
+                                "count" : "true",
+                                "href" : "http://www.google.com/hostednews/afp/article/ALeqM5jVPsCpag1UPLHFmErLsBosJJOzeQ?docId\x3dCNG.07591508cdbb6279c9ccd6f3f0506ff3.a71"
+                              });
+                        });
+                      }
+                      sandbarSharebox.registerMicrodataParser(
+                          window.top, document.getElementById('hostednews-article'));
+PARIS &#x2014; A cheap, simple device widely used to monitor blood oxygen can help save newborn babies with congenital heart defects, a study in The Lancet determined on Wednesday.
+Congenital heart flaws account for between three and 7.5 percent of all infant deaths, but surgery greatly improves the chances of survival, especially if the problem is detected at the earliest stages.
+Doctors led by Shakila Thangaratinam of Queen Mary University of London looked at published research into pulse oximetry, in which a small monitor is placed on the fingertip or toe to check levels of oxygen in arterial haemoglobin.
+It works by comparing the differences in red light, which is absorbed by oxygenated blood and infrared light, which is absorbed by deoxygenated blood.
+Oxygenation levels are given instantly, in a digital display.
+Thirteen studies covering nearly 230,000 newborn babies were included in the trawl.
+Pulse oximetry detected 76.6 percent of congenital heart defects and had a rate of just 0.14 percent of "false positives," a term meaning the times when the device wrongly signalled a problem when in fact the infant was healthy.
+The risk of a "false positive" was even lower when the baby was tested more than a day after birth, rather than within the first 24 hours, the paper said.
+Pulse oximetry is a useful, non-invasive early warning test for babies who do not have obvious symptoms of cardiac problems, say the researchers.
+Infants that are spotted as being at risk can then be diagnosed by echocardiography and, if need be, treated by surgery.
+Pulse oximetry for newborns is an issue that has been hotly debated in medical circles, with some experts saying its reliability is unproven. United States is the only country to use it as a routine screening tool.
+But the new study says the evidence is now emphatic, as pulse oximetry has been tested on more than a quarter of million infants, 100,000 more than in 2009 when the last review took place.
+Copyright ©  2012   AFP. All rights reserved.More »
+A cheap, simple device widely used to monitor blood oxygen can help save newborn babies with congenital heart defects (AFP/File, Dibyangshu Sarkar)

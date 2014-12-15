@@ -1,0 +1,98 @@
+Marlins' Ricky Nolasco outduels Cain, Giants again
+ATLANTA -- The buzzword of choice in theBoston Celtics' locker room following Tuesday's 87-80 Game 2 triumph over theAtlanta Hawksin an Eastern Conference quarterfinal series was "professional."
+[+] EnlargeKevin C. Cox/Getty ImagesPaul Pierce genuflects after Boston's Game 2 win.
+Multiple players tossed out that adjective to describe how Boston clawed back from an 11-point, second-half deficit to emerge with what amounted to a must-win game played without half of the team's Big Four.
+As captainPaul Piercesurmised, "These types of moments are what being a professional is all about."
+Celtics coach Doc Rivers often calls Pierce a "professional scorer," and Pierce reminded us why on Tuesday night. The 34-year-old Pierce poured in a game-high 36 points over a whopping 44 minutes, 21 seconds of floor time. The night culminated with Pierce "Tebowing" at midcourt after a pair of his free throws put Boston in front 85-78 with 1:15 to play.
+OK, so it wasn't his Broadway-like midcourt bow after playing last-second villain against the Knicks at Madison Square Garden last season and, sure, the Tebowing fad probably ran its course months ago, but Pierce deserved a little moment of celebration.
+Heck, maybe he was just resting.
+With the Celtics playing without suspended point guardRajon Rondo(as well as injured shooting guardRay Allen), much of the offense went through Pierce, who put on a vintage display, slow-stepping his way into the paint all night for gritty buckets or getting to the line for free throws.
+Rivers desperately wanted to get Pierce a blow in the fourth quarter, but couldn't afford to take him off the floor. Pierce just kept hitting big shots in the final frame, in which he made five of seven attempts and scored 13 points.
+sportIndex: storypagepollroot: nullvar cookies = document.cookie.split("; ");
+function getCookie(name) {
+	for (var i=0; i < cookies.length; i++) {
+	  cookie = cookies[i].split("=");
+	  if (cookie[0] == name)
+		return cookie[1];
+	  }
+	  return null;
+}
+var poll = 0;
+var poll = 138455;
+var hasVoted = false;
+var voted = "voted=0";
+var pollBit = poll % 256 % 64 % 4;
+bitArray = new Array();
+bitArray[0] = 8;
+bitArray[1] = 1;
+bitArray[2] = 2;
+bitArray[3] = 4;
+var cookieId = (poll - (poll % 256)) / 256;
+var CookieIdasString = new String(cookieId);
+var cookieName = "POLL" + CookieIdasString;
+pollCookie = getCookie(cookieName)
+if (pollCookie != null) {
+	cookiePosition = pollCookie.length - Math.ceil((poll % 256 )/ 4);
+	cookieValue = pollCookie.substring(cookiePosition, cookiePosition + 1);
+	cookieAsHex = "0x" + cookieValue.toString(1);
+	if ((bitArray[pollBit] & cookieAsHex) == bitArray[pollBit]) {
+		var hasVoted = true;
+	}
+	if (hasVoted) {
+		voted = "voted=1";
+	}
+}begin ad tagif (typeof ad_kvps != 'undefined' && typeof ad_u != 'undefined' && typeof ad_counter != 'undefined' && typeof ad_ord != 'undefined') {
+				if (typeof ad_site == 'undefined' || typeof ad_zone == 'undefined') {
+					var ad_site = 'espn.local.null.com';
+					var ad_zone = 'nullindex';
+				}
+				var ad_finalString = 'http://ad.Doubleclick.net/adj/'+ad_site+'/'+ad_zone+';' +ad_kvps+ 'pos=HomePagePoll;' +ad_u+ 'sz=298x40,1x1;tile=' +ad_counter+ ';ord=' +ad_ord;
+				document.write('<scr'+'ipt src='+ad_finalString+'></scr'+'ipt>');
+				ad_counter++;
+			}end ad tag<!--
+                    deCookieValue = 'null';
+                    deCookieValue = getCookie("DE2");
+                    //window.document.cookie = deCookieValue;
+                    var pollSOB=new flashObj();
+                    pollSOB.flashFile = "http://a.espncdn.com/prod/assets/totemPoll.swf";
+                    pollSOB.flashVars = '&pId=138455&map=false&pType=0&voteButtonText=&voteButtonUrl=http://a.espncdn.com/prod/assets/pollBtn.png&voteButton2Url=http://a.espncdn.com/prod/assets/pollBtnActive.png&mapButtonText=VIEW+MAP&mapButtonUrl=http://a.espncdn.com/prod/assets/pollViewMapBtn.png&totalVotesText=Total+votes&fontSize=11&answerFontSize=11&fontBold=true&answerFontBold=false&fontColor=000000&answerFontColor=000000&barColor=FF0000&buttonColor=8f8f8f&surveyMsg=&pollUrl=http://espn.go.com/espn/fp/pollDataGenUniversal&submitUrl=http://poll.espn.go.com/cgi/sz/poll.dll&regionSubmitUrl=http://proxy.espn.go.com/espn/fp/pollRegDataInsert'+'&'+voted+'&cookie='+deCookieValue;
+                    pollSOB.width = "298";
+                    pollSOB.height = "256";
+                    pollSOB.DenyIEdl = "TRUE";
+                    pollSOB.quality = "best";
+                    pollSOB.wmode="transparent";
+                    pollSOB.scale = "noScale";
+                    pollSOB.allowScriptAccess = "Always";
+                    pollSOB.allowNetworking = "All";
+                    pollSOB.altTxt = "Poll";
+                    pollSOB.FlashVer = 8;
+                    pollSOB.ID = "flashPollSwf";
+                    pollSOB.cabVersion = "8,0,24,0";
+                    pollSOB.render(true);
+                    //--><!--
+                        function launchWindow() {
+                            window.open('http://sports.espn.go.com/espn/fp/flashPollResultsState?sportIndex=storypagepoll&pollId=138455','MapPollWin','toolbar=no,status=no,scrollbars=no,location=no,menubar=no,directories=no,resizable=no,width=924,height=608');
+                        }
+                    //-->
+As the team bus rumbled toward the Atlanta airport, Pierce took to Twitter and pecked out, "44 [minutes] tonite, old for this, I need a bed right now!!!"
+He deserved one, with home-court advantage packed in Boston's carry-on after stealing it away from the Hawks at a Philips Arena that had previously been a house of recent horrors.
+Pierce scored the game's first bucket six seconds in and accounted for Boston's first nine points overall. He overcame a brief first-half funk to shoulder the offensive load while playing all 24 second-half minutes.
+Yes, some will joke that Tebowing was appropriate given his eight turnovers, but the rest of his stat line more than made up for it, including a game-high 14 rebounds and four assists.
+But even Pierce couldn't win this one by himself. He needed other professionals.
+So there were little-used reservesKeyon DoolingandMarquis Daniels-- never considered professional scorers at any points in their NBA career -- coming up with clutch baskets. Dooling hit a pair of second-half 3-pointers, the first of which snapped a 77-minute, 25-second stretch in which Boston failed to generate a trifecta to start the playoffs. The Celtics missed their first 19 triples before Dooling rattled one in from the left wing, aiding the start of the rally.
+But he had no desire to talk about his offensive exploits in the locker room. Not when it was the stifling team defense that allowed Boston to rally back from a double-digit hole. You can probably guess why Dooling and Daniels (a team-best plus-11 Tuesday) were ready to aid that charge despite their lack of consistent regular-season minutes.
+begin inline 2INLINE MODULEEastern Conference PlayoffsGet all the news and commentary on the Celtics-Hawks matchup on ESPN.com'smatchup page.•Predictions:Simulator|SportsNation•More:TrueHoop|Schedule|Bracket•Celtics Report|ESPN Bostonend sidebar tableend inline 2
+Get all the news and commentary on the Celtics-Hawks matchup on ESPN.com'smatchup page.
+•Predictions:Simulator|SportsNation•More:TrueHoop|Schedule|Bracket•Celtics Report|ESPN Boston
+"We're professionals," Dooling said. "Throughout the season, we were in the rotation, out of the rotation, not playing that often. But you focus, you give yourself to the team, you never let yourself get out of shape, never let yourself get in a funk, mentally, and stay in tune with the game plan and the schemes. Then when your number is called, you gotta be ready."
+Dooling played a bench-high 21:05, chipping in six of the 14 points the reserves would account for. But it was his uncharacteristically fiery defense -- something not often seen during his regular-season minutes -- that helped light a fire under his teammates.
+Dooling had a little extra motivation as well: atoning for a teammate who had a somewhat unprofessional moment. Rondo missed Tuesday's game while serving a one-game suspension for bumping a game official. It put the Celtics in a tough position after letting Game 1 slip away Sunday, but players rallied around the notion of winning for the player who wasn't available on Tuesday.
+"We said it after the last game, we talked about maybe not having Rondo, and being prepared for that moment," Dooling said. "We did this for him tonight. This is a tribute to Rondo; we got his back."
+That's just what professionals do. And that attitude starts at the top.Kevin Garnett, who continues to struggle with his shot but chipped in a double-double with 15 points and 12 rebounds over 40 minutes in Tuesday's win, said the veteran players strive to instill a sense of professionalism in all the new faces.
+"We actually spend a lot of times with our young guys, we try to pass on things about tradition here in Boston," Garnett said. "So the things we do here, we're trying to at least progress our younger guys to understand what this is, what it is to put this uniform on. We pass that down to these guys, and everybody that comes into the game knows what it is.
+"Everyone knows it's not about one person; it's about the group, the team. This team is like a well-oiled machine, you come in, you know what it is. There's no excuses. You give 100 percent, that's what it is."
+Anything less wouldn't be professional.
+Connect with Facebook to share your ESPN activities.Learn more »
+Learn about sharing your ESPN activites on Facebook »
+Close
+Facebook »Twitter »

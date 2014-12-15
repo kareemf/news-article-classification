@@ -1,0 +1,24 @@
+Struggling Hedge Fund Under a Cloud
+By ALEX KENNEDY, Associated Press
+–1 hour agoif (gbar.lPWF) {
+                        gbar.lPWF(function() {
+                          gapi.plusone.render('plusone-div',
+                              { "size" : "small",
+                                "count" : "true",
+                                "href" : "http://www.google.com/hostednews/ap/article/ALeqM5h8322ZAVsZBzBijtt4Dsh_MSmZTg?docId\x3d9f73a3423b7b4c03ad323277541e2e03"
+                              });
+                        });
+                      }
+                      sandbarSharebox.registerMicrodataParser(
+                          window.top, document.getElementById('hostednews-article'));
+SINGAPORE (AP) — Oil prices hovered near $106 a barrel Wednesday in Asia after a report showed U.S. crude supplies grew for a sixth week while gasoline inventories fell.
+Benchmark oil for June delivery was down 24 cents to $105.92 a barrel at midday Singapore time in electronic trading on the New York Mercantile Exchange. The contract rose $1.29 to settle at $106.16 in New York on Tuesday.
+Brent crude for June delivery was down 14 cents at $119.52 per barrel in London.
+The American Petroleum Institute said late Tuesday that crude inventories rose 2 million barrels last week while analysts surveyed by Platts, the energy information arm of McGraw-Hill Cos., had predicted an increase of 2.5 million barrels.
+However, inventories of gasoline fell 3.9 million barrels last week while distillates tumbled 4.2 million barrels, the API said.
+The Energy Department's Energy Information Administration reports its weekly supply data later Wednesday.
+Crude has traded between $102 and $106 for most of the last month as the latest economic indicators suggest an uneven U.S. recovery.
+On Tuesday, the Institute for Supply Management, a trade group of purchasing managers, said its index of U.S. manufacturing activity increased to 54.8 in April, the highest level since June and up from the previous month. Readings above 50 indicate expansion.
+"The manufacturing survey will ease concerns that the softer tone of the incoming news in recent months marked the start of a renewed slowdown," Capital Economics said in a report. "We believe this recovery is made of sterner stuff."
+In other energy trading, heating oil was up 0.1 cent at $3.18 per gallon and gasoline futures added 0.4 cents at $3.10 per gallon. Natural gas gained 0.5 cents at $2.38 per 1,000 cubic feet.
+Copyright ©  2012   The Associated Press. All rights reserved.

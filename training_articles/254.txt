@@ -1,0 +1,56 @@
+On Deploying Tablets in the Enterprise
+
+After last year's scattered lineup of products, HTC's been going through a bit of a renaissance lately thanks to theOne X,One SandOne V-- a beautifully focused trio of phones that run the company's new, lightweightSense 4skin on top of Ice Cream Sandwich. Hot on the heels ofT-Mobile's One Scomes AT&T's One X, which islaunching May 6for $199 on contract. The reworked device gains LTE and drops NVIDIA's quad-core Tegra 3 chip for a dual-core Snapdragon S4. So, does this brain transplant make it a better or worse proposition than the global One X? Hit the break to find out.HTC One X for AT&amp;T review
+
+
+
+
+It takes more than a casual glance to tell AT&T's One X apart from its matte white foreign twin. The only telltale sign is HTC's logo giving way to the carrier's brand on the glass between the earpiece and the display. While both are striking handsets carefully crafted from the same thin (8.9mm), machined polycarbonate unibody, AT&T's version is perhaps a smidgen taller and heavier despite the official numbers (134.36mm and 130g). There are other subtle changes: the camera pod contains a slightly larger plastic (not aluminum) piece, and the five contacts on the back don't line up, leading us to believe these devices use incompatible docks.
+
+The phone retains the same gorgeous 4.7-inch HD (1280 x 720) Super LCD 2 (non-PenTile) screen protected by Gorilla glass, but the innards have changed significantly. NVIDIA's quad-core 1.5GHzTegra 3chip's been replaced with Qualcomm's dual-core 1.5GHz MSM8960Snapdragon S4processor, which is similar to the MSM8260A found in the One S but adds that important dual-band (1700 / 700MHz)LTEradio. While the 1GB of RAM carries over, built-in storage is down to 16GB from 32GB (with 12GB available to the user). This is particularly vexing since there's no microSD card slot on the One X.
+
+
+Comparing a carrier-sanctioned device to its SIM-free counterpart often results in disappointment. Processor swaps and operator-imposed software tweaks don't usually mix well when it comes to performance (AT&T's Galaxy Notecomes to mind). Well, you can rest easy: AT&T's One X bucks this trend and feels just as blazingly fast as the global model, if not brisker. In our benchmarks it beat the Tegra 3 variant in almost every test, with scores matching the Snapdragon S4-equipped One S in each category. All told, it's quite possibly the speediest handset we've ever played with.
+
+
+
+Even with LTE enabled, battery life is noticeably better on AT&T's One X than on the foreign version. This was a sticking point in our original review, so we're extremely pleased with the improvement. We recorded eight hours and 55 minutes in our video loop rundown test with the screen set to 50 percent brightness -- most folks will have little trouble getting a full day's use from the 1,800mAh cell. Call quality was decent, but LTE performance exceeded our expectations with peak speeds of 35.7Mbps down and 23.5Mbps up (!) -- the fastest results we've ever recorded on an LTE device.
+
+
+
+On the camera front, AT&T's One X follows in the footsteps of its global stablemate (and the One S) with the same impressive 8-megapixel shooter. The wide aperture f/2.0 autofocus lens, high-quality BSI sensor and super-fast processing combined with features like HDR, panorama and real-time filters provide an unrivaled imaging experience -- it even captures photos and 1080p / 30fps video simultaneously (with full AF and stereo audio). The lack of a proper dual-detent shutter button is the only blatant omission. Since there's no difference in picture quality, we've re-posted our existing samples.HTC One X sample shots
+
+
+Both AT&T's One X and its unlocked cousin runIce Cream Sandwich(Android 4.0.3, in fact) along with HTC's new streamlined Sense 4 UI. We're happy to report the carrier's managed to avoid diluting HTC's vision by keeping customizations to a minimum. AT&T's start-up animation is far less tacky and annoying than what we saw on T-Mobile's One S, but here again the network status indicator's been adjusted to display 4G LTE for LTE, 4G (instead of H) for HSPA+ and E for EDGE. The word AT&T always appears in the left of the notification bar, wasting valuable space.
+
+In addition to Google and HTC's usual software, you'll find a dozen or so pre-installed apps on the phone. The good news is that half of them are removable. The bad news is that several useful apps that exist on the foreign version -- such as Voice Recorder, Polaris Office, FM Radio, Flashlight andDropbox-- are missing from AT&T's One X. The operator-specific crapware includes AT&T Code scanner, AT&T FamilyMap, AT&T Navigator (why?), AT&T Ready2Go, Device Help, Live TV and myAT&T. Amazon Kindle, MOG Music, Top HD Games, and YPMobile complete the package.
+As with other AT&T devices, the hotspot functionality is crippled and will "call home" to check for a tethering plan before turning on -- this even after unlocking the handset and inserting a SIM from another carrier. There's also no AWS support for HSPA+ in the baseband out of the box. On the plus side,NFCwas left untouched andAndroid Beamworks as expected.
+
+
+
+By now you're probably asking yourself, is AT&T's One X really better than the global model? Yes, absolutely -- assuming you can live with the carrier's software tweaks and bloatware. At $199, this is the best subsidized Android phone available in the US today. It arguably dethrones Samsung's mighty Galaxy Note as AT&T's flagship device by combining Ice Cream Sandwich, a faster processor and a more efficient LTE radio. The only alternative, if you can afford it, is to import the unbranded, unlocked Canadian version of the One X, which is also compatible with AT&T's LTE bands.
+GoogleAndroid 4.0
+
+powered bygdgt
+Get better reviews from people who actually have this product!
+Get better answers and support from people who actually have this product!
+HTCOne X
+
+powered bygdgt
+Get better reviews from people who actually have this product!
+Get better answers and support from people who actually have this product!
+HTCOne S
+
+powered bygdgt
+Get better reviews from people who actually have this product!
+Get better answers and support from people who actually have this product!
+05/01/12
+HTC
+Is AT&amp;T's One X really better than the global model? Yes. If you can live with the carrier's software tweaks, this is the best subsidized Android phone in the US today.
+A look back on popular stories from today in a specific year.
+0 comments
+125 comments
+36 comments
+5 comments
+2 comments
+Now that we've thrown 'em off the trail, use the form below to get in touch with the people at Engadget. Please fill in all of the required fields because they're required.

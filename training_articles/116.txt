@@ -1,0 +1,29 @@
+Simple device can help babies with tragic heart flaw
+Skip to main page content
+Background:Timing of initiation of screening for breast cancer is controversial in the United States.
+Objective:To determine the threshold relative risk (RR) at which the harm–benefit ratio of screening women aged 40 to 49 years equals
+                        that of biennial screening for women aged 50 to 74 years.
+Design:Comparative modeling study.
+Data Sources:Surveillance, Epidemiology, and End Results program, Breast Cancer Surveillance Consortium, and medical literature.
+Target Population:A contemporary cohort of women eligible for routine screening.
+Time Horizon:Lifetime.
+Perspective:Societal.
+Intervention:Mammography screening starting at age 40 versus 50 years with different screening methods (film, digital) and screening intervals
+                        (annual, biennial).
+Outcome Measures:Benefits: life-years gained, breast cancer deaths averted; harms: false-positive mammography findings; harm–benefit ratios:
+                        false-positive findings/life-years gained, false-positive findings/deaths averted.
+Results of Base-Case Analysis:Screening average-risk women aged 50 to 74 years biennially yields the same false-positive findings/life-years gained as
+                        biennial screening with digital mammography starting at age 40 years for women with a 2-fold increased risk above average
+                        (median threshold RR, 1.9 [range across models, 1.5 to 4.4]). The threshold RRs are higher for annual screening with digital
+                        mammography (median, 4.3 [range, 3.3 to 10]) and when false-positive findings/deaths averted is used as an outcome measure
+                        instead of false-positive findings/life-years gained. The harm–benefit ratio for film mammography is more favorable than for
+                        digital mammography because film has a lower false-positive rate.
+Results of Sensitivity Analysis:The threshold RRs changed slightly when a more comprehensive measure of harm was used and were relatively insensitive to
+                        lower adherence assumptions.
+Limitation:Risk was assumed to influence onset of disease without influencing screening performance.
+Conclusion:Women aged 40 to 49 years with a 2-fold increased risk have similar harm–benefit ratios for biennial screening mammography
+                        as average-risk women aged 50 to 74 years. Threshold RRs required for favorable harm–benefit ratios vary by screening method,
+                        interval, and outcome measure.
+Primary Funding Source:National Cancer Institute.
+Copyright © 2012 by theAmerican College of Physicians
+Contact Us|About|Help

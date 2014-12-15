@@ -1,0 +1,30 @@
+The Secrets of Field Sobriety Tests
+(AFP)
+–9 hours agoif (gbar.lPWF) {
+                        gbar.lPWF(function() {
+                          gapi.plusone.render('plusone-div',
+                              { "size" : "small",
+                                "count" : "true",
+                                "href" : "http://www.google.com/hostednews/afp/article/ALeqM5jN2Q2CFblhDMnHSrFIYFq164xOpQ?docId\x3dCNG.07591508cdbb6279c9ccd6f3f0506ff3.4a1"
+                              });
+                        });
+                      }
+                      sandbarSharebox.registerMicrodataParser(
+                          window.top, document.getElementById('hostednews-article'));
+SAN FRANCISCO &#x2014; A virus infecting Macintosh computers is picking Google's pocket by hijacking advertising "clicks," tallying as much as $10,000 daily, according to Internet security firm Symantec.
+A component of the widespread Flashback virus targets Google search queries made using Chrome, Safari, or Firefox browsers and directs people to pages dictated by the hackers, Symantec said Tuesday in a blog post.
+Those clicking online ads can be re-routed to websites of different merchants or publishers, with hackers getting paid the eight cents or so that would have been paid to Google for the referral, analysis of the virus showed.
+"Google never receives the intended ad click," Symantec researchers said.
+"This ultimately results in lost revenue for Google and untold sums of money for the Flashback gang."
+Based on the hundreds of thousands of Macintosh computers believed to be infected with the Flashback virus, the amount of money raked in by hackers could climb to about $10,000 daily, Symantec estimated.
+Apple last month released a Macintosh software update with a tool to purge Flashback from computers.
+"If the Flashback malware is found, a dialog will be presented notifying the user that malware was removed," California-based Apple said at a support website.
+Apple has also said it has patched the weakness exploited by the virus and is working to disrupt the command network being used by hackers behind the infections.
+The virus took advantage of a weakness in Java programs, according to Apple.
+The malicious software does its dirty work with directions received from computer servers "hosted by malware authors" and Apple is collaborating with Internet service providers to "disable this command and control network."
+Computer security specialists have warned that more than 600,000 Macintosh computers may have been infected with a virus targeting Apple machines.
+Hackers tricked Mac users into downloading the virus by disguising it as an update to Adobe Flash video viewing software.
+Flashback Trojan malware tailored to slip past "Mac" defenses is a variation on viruses typically aimed at personal computers (PCs) powered by Microsoft's Windows operating systems.
+"All the stuff the bad guys have learned for doing attacks in the PC world is now starting to transition to the Mac world," McAfee Labs director of threat intelligence Dave Marcus told AFP.
+Copyright ©  2012   AFP. All rights reserved.More »
+A virus infecting Macintosh computers is picking Google's pocket by hijacking advertising "clicks" (AFP/Getty Images/File, Justin Sullivan)

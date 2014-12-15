@@ -1,0 +1,36 @@
+Google Instant's Allegedly 'Anti-Semitic' Results Lead To Lawsuit In France
+The engineer responsible for writing the code that led to tons of personal and private data being collected from the Google's Street View cars is found out and called a "GOD in the wireless community."
+A Google Street View car makes its rounds in Singapore in 2008.
+Just when it seemed like things were finally settling down for Google in the Street View debacle, more information has been leaked. The formerly unnamed engineer who wrote the code that enabled Street Viewcarsto collect personal e-mail, text messages, passwords, and Internet-usage history from unsecured wireless networks for four years has been identified, according toThe New York Times.
+Marius Milner is his name and the Times reported that his LinkedIn profile occupation was listed as "hacker" and under the social network's specialties category his entry said, "I know more than I want to about Wi-Fi." As of this writing, his LinkedIn profile no longer has these listings but does confirm that he has worked for Google since 2003.
+Under LinkedIn's recommendations for Milner, a senior security administrator for Royal Oak Industries John K. wrote in 2008 that Milner "has revolutionized the wireless community with his software and allowed many companies to use his software to their advantage to make sure they have a secure wireless network. He is a GOD in the wireless community."
+Milner, who lives in Palo Alto, Calif., declined to answer the Times' questions and referred all questions to his lawyer, Martha Boersch, who also declined to comment.
+Just last month the Federal Communications Commissionwrapped up a 17-month investigationinto Google's Street View project. The probe looked into how Google's Street View cars collected the personal and private data of individuals via wireless networks while mapping and photographing cities in more than 30 countries. The cars were supposed to collectjust the locations of Wi-Fi access pointsbut also collected all sorts of individual's data from unsecured wireless networks.
+The FCC concluded that the Internet giant did not break any communications and wiretap laws but "deliberately impeded and delayed" the investigation and therefore was fined $25,000.
+
+A former state investigator who is involved in another probe on the Street View project is the person who tipped off Milner's name to The New York Times. This investigator remains anonymous.
+Throughout the entire investigation, Google has maintained that the engineer (Milner) worked alone and the company was unaware of what he was doing. However, according to The New York Times, the full FCC report that was released last Saturday says that at least one superior and seven other engineers must have known about all of the data the Street View cars were collecting.
+Google declined to comment on this story.
+
+Dara Kerr, a freelance journalist based in the Bay Area, is fascinated by robots, supercomputers and Internet memes. When not writing about technology and modernity, she likes to travel to far-off countries. She is a member of the CNET Blog Network and is not an employee of CNET.
+Review
+Mobile
+Slideshow
+Slideshow
+Mobile
+Mobile
+Cutting Edge
+Mobile
+Security & Privacy
+The Car Tech blog
+Crave
+Apple
+Crave
+Technically Incorrect
+Mobile
+127Facebook Likes
+281Tweets
+68Google Plus Shares
+227Comments
+The Web is now the place to go for news and entertainment. Look here for the latest on blogs, music, video, virtual worlds, social networking, and more.
+CNET On The Go.Download the native CNET app for the platform of your choice.

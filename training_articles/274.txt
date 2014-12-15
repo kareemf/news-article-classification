@@ -1,0 +1,70 @@
+Boingo In Deal With Deutsche Telekom For In-Flight Wi-Fi
+A GSM world phone with a dual-core CPU, LTE connectivity, and HD video support? Sounds like a winner. But when you add a 5.3-inch screen it suddenly becomes a question mark in the eyes of many cell phone users.  That pretty much defines the first impression people seem to have of theSamsung Galaxy Note, available in the U.S. from AT&amp;T as the SGH-I717.
+
+Unveiled at last year's CeBit show in Germany and released in the U.S. in February, the phone has garnered generally good early reviews--except for its size. The phone falls between the Samsung Galaxy S II 4.3-inch phone and the 7-inch Galaxy Tab tablet. But rather than feeling like a small tablet, the Note feels only slightly bigger than the Galaxy S II, which is the number-one selling Android smartphone (see below). And it would seem that customers aren't being put off by the big screen--Samsung said over 6 million units had been sold worldwide in 2012 Q1.
+
+
+The phone fits easily in a shirt pocket and can be used with one hand. Granted, I can palm a basketball, but even someone with average hands should find it fairly comfortable with some practice. And that larger size does get you a 5.3" 800 x 1280 Super AMOLED HD display, which--beside being able to display 720P HD without resizing--offers a very bright and detailed screen for other apps, including those that can make use of stylus input.
+
+If you're a current Samsung Android phone user, especially if you are coming from the Galaxy S or S II, you'll feel right at home with most of the software that comes with this phone. It's the same current-generation of phone apps that have received excellent reviews. What the Note brings new to the table is the S Pen stylus.
+
+Along with the unique ability to annotate just about anything that the phone can produce, the S Pen software makes taking notes very simple. The S Memo application is a full-featured note taker, and since the release of the Pen SDK last November, a number of S Pen-enabled apps are now available in the Market that let you do everything from artistically draw to play games.
+
+The stylus does what you would expect on a tablet that accepts pen input: you can take notes, convert your handwriting to text, capture screens and annotate them, open Office and PDF files (in the included Polaris Office application), and annotate using the pen. It can be used to simply navigate through applications; it's like a fingertip only with significantly more precision, which can be incredibly useful when doing many tasks, including browsing through link-laden websites. The S Pen stores easily in the base of the phone, though if you choose a bulky case, it can be difficult to extract.
+
+
+The phone also features a new registration and configuration process. The first thing experienced Android user will notice is that the phone doesn't automatically boot into the Android sign-in screen, which would normally configure the Google Apps on the phone, register the device with Google, and make the Android market (now known as Google Play) available. Instead, the user is made aware of the option to register the phone via a message on the drop-down notification screen. Clicking this message launches the AT&amp;T Ready2Go app, which walks you through using your desktop computer to configure your new phone. From your desktop the nine-step process lets you configure your Gmail account, set up social networking, add additional contacts, select your wallpaper, install a few free apps that AT&amp;T provides, select browser bookmarks from a list of sites, configure your home screen widgets , set your ring tone, and configure access to your Wi-Fi network.
+
+Or you can just launch any of the Google connected apps on the phone, such as the Market, and you will be walked through the standard Google registration process with which you may already be familiar.
+
+You can't have a review without getting into the device hardware and technologies, so let's take a look at the specs:Size: 5.78" x 3.27" x 0.38"Weight: 6.28 oz.Network and speed: GSM Quad-band: 850/900/1800/1900MHz; UMTS; Tri-band: 850/1900/2100MHz; LTE; Dual Band: Band 4 & Band 17, plus 21 Mbps HSDPA and 5.76 Mbps HSUPAOS: Android 2.3.6  (Samsung TouchWiz 4.0 UI);  Android 4.0 (ICS) expected shortlyCPU :Qualcomm Snapdragon S3 Scorpion dual-core 1.5 GHzGPU: Adreno 220RAM: 1 GBDisplay: 1280 x 800, 5.3" (285 ppi) WXGA HD Super AMOLED PenTileCamera:  8MP rear with flash, 2 MPfrontVideo recording:  up to full 1080P HD @ 30 fpsWeb browser: Android with GPU-accelerated 1080P flash playback capabilityInput:  Proximity and ambient light sensors, 3-axis gyroscope, magnetometer, accelerometer, barometer, aGPS, GLONASSStorage: 16GB internal, up to 32GB microSD can be added
+
+The Philadelphia area, where I am, does not yet have AT&amp;T LTE deployed. But the Note was able to reach download speeds up to 11 Mbps with the fallback HSDPA 21+, which compares favorably to the Verizon LTE performance of up to 12 Mbps I get at my office.
+
+For work, I had no trouble connecting the Note to my Exchange Server account, and it is one of the first two Samsung phones (the other is the Galaxy Nexus)  to be Samsung Approved for Enterprise (SAFE) certified.  SAFE means the phone can by managed by mobile device management consoles that support the SAFE API set provided by Samsung, and that the phone comes with the ability to use a VPN to access a corporate network. The size of the screen makes reading existing documents (and even annotating them), much easier than on any other traditional cell phone, and content creation tasks are also made simpler.
+
+With a 5.3" display, the Note is also a great replacement for 7-inch tablet e-readers; text in all of the common eReader applications I used was easy to read. The difference between the Note and 7" devices was barely noticeable. One reason for this is that almost all 7-inch e-readers have a lower resolution than the Note--generally 1024 x 600. For the serious geek who is concerned about the PenTile display, the HD Super AMOLED display shows none of the artifacts that lower-resolution displays used to suffer from to the point of pixel peeping.
+
+The Samsung Galaxy Note SGH-I717 is $299 with a two-year contract from AT&amp;T. Amazon sells it for $229, and price matching with Amazon is at the discretion of your local AT&amp;T store.
+
+Name:Samsung Galaxy Note (AT&amp;T)The Galaxy Note from Samsung, available in the U.S. only from AT&amp;T, breaks new ground in the mobile space. It's not just a large phone with a big, beautiful screen like the Droid Razr. It adds a stylus that makes annotation and many new application types possible.Price: $299 with two-year AT&amp;T contract. $229 at Amazon.com.Pro:Big, beautiful screen.Stylus allows fine control over apps that otherwise might be impractical on a tablet or phone.4G support (AT&amp;T LTE).Samsung SAFE certified.Con:Larger than most phones.
+
+These tags can be used alone and don't need an ending tag.
+<br>Defines a single line break<hr>Defines a horizontal line
+These require an ending tag - e.g.<i>italic text</i>
+<a>Defines an anchor<b>Defines bold text<big>Defines big text<blockquote>Defines a long quotation<caption>Defines a table caption<cite>Defines a citation<code>Defines computer code text<em>Defines emphasized text<fieldset>Defines a border around elements in a form<h1>This is heading 1<h2>This is heading 2<h3>This is heading 3<h4>This is heading 4<h5>This is heading 5<h6>This is heading 6<i>Defines italic text<p>Defines a paragraph<pre>Defines preformatted text<q>Defines a short quotation<samp>Defines sample computer code text<small>Defines small text<span>Defines a section in a document<s>Defines strikethrough text<strike>Defines strikethrough text<strong>Defines strong text<sub>Defines subscripted text<sup>Defines superscripted text<u>Defines underlined text
+BYTE encourages readers to engage 
+		  in spirited, healthy debate, including taking us to task.  
+		  However, BYTE moderates all comments posted to our site, 
+		  and reserves the right to modify or remove any content that it determines to be derogatory, 
+		  offensive, inflammatory, vulgar, irrelevant/off-topic, racist or obvious marketing/SPAM.  
+		  BYTE further reserves the right to disable the profile of any commenter participating 
+		  in said activities.
+Oct 20: Becoming a Security Detective -  Gathering and Analyzing Security Intelligence in the EnterpriseIn this all-day virtual event, experts will offer detailed insight in how to collect security intelligence in the enterprise, and how to analyze and study it in order to efficiently identify new threats as well as low-and-slow attacks such as advanced persistent threats. Register today!Platinum Sponsors:ArcSight, NetIQ, Proofpoint, ThawteGold Sponsor:Q1 Labs
+
+October 6: InformationWeek 500 Virtual Event: The Need for SpeedAt the 2011 InformationWeek 500 Virtual Conference, C-level executives from leading global companies will gather to discuss how their organizations are turbo-charging business execution and growth.Platinum Sponsor:ArcSight,  WorkdayGold Sponsor:IBM
+
+Aug 25: InformationWeek & Dark Reading present: How Security Breaches Happen and What Your Organization Can Do About ThemAttendees will get insights on how to prevent breaches from happening, how to research and identify the source of a breach, and how to remediate a compromise as quickly and efficiently as possible.Platinum Sponsor:ArcSight, NetIQ, ThawteGold Sponsors:Lumension, NetGear, GFISilver Sponsor:Motorola
+
+July 28: InformationWeek & Symantec present: Infrastructure at Risk -- Taking Decisive Action to Secure Your Critical Data AssetsJoin the editors of InformationWeek and leading security experts from Symantec for an in-depth look at the current threats faced by large and small organizations, and the implications for your business, your customers, and even your country. You'll hear how today's threat landscape is changing drastically, and learn the latest countermeasures and best practices to keep your company's precious data assets out of the hands of determined cybercriminals.
+
+July 27: Electronic Health Records -- Moving from Concept to RealityAt this InformationWeek Healthcare Virtual Event, we will talk with healthcare practitioners, IT professionals and other industry experts about issues surrounding EHR selection, deployment and use.Platinum Sponsor:HP, Intel, GBS, Geotrust, NextGenSilver Sponsor:Proofpoint
+
+On-Demand: InformationWeek & Interop present: Business Mobility UnleashedIn this virtual event, the leaders behind InformationWeek Business Technology Network and Interop zero in on the top mobile technologies and techniques you'll need to understand and master to ensure your organization thrives in the wireless world.Platinum Sponsors:Alcatel-Lucent, APCGold Sponsor:HPSilver Sponsor:Emerson Network PowerBronze Sponsor:Skybot
+
+On-Demand: Cybersecurity Best PracticesIn this half-day virtual event, experts assess the state of cybersecurity in government and present the latest strategies for creating a more secure, attack-proof IT infrastructure. This event will help CISOs and other information assurance professionals in federal, state, and local government stay on top of the latest developments in the field.Platinum Sponsor:GeoTrustGold Sponsor:Bit9
+
+On-Demand: Data Center TransformationData centers are undergoing incredible transformations that create 
+both opportunities and challenges for IT professionals. Server virtualization enables rapid provisioning,
+more efficient use of resources, and improved disaster recovery. That trend will continue with storage and network virtualization, 
+allowing IT pros to further abstract -- and optimize -- data center resources.In this virtual event, you will learn how prepare your organization for a data center transformation.Platinum Sponsors:AMD, APC, Cisco, Eaton, SunGardGold Sponsor:Emerson Network Power
+
+On-Demand:  Cloud Computing Roadmap: Controlling the Cloud - Managing, Optimizing and Integrating Cloud Services with Your Existing IT InfrastructureIn this virtual event, you'll learn how to craft your own strategy for successfully embracing and integrating new cloud computing capabilities without derailing or destroying your current IT roadmap.Platinum Sponsors:ArcSight, GoToAssist, SunGard, thawteGold Sponsor:SymformSilver Sponsor:Skybot
+
+On-Demand: Plugging the Leaks -- Finding and Fixing the IT Security Holes in your EnterpriseIn this virtual event presented by Dark Reading and InformationWeek, you'll find out how criminals target the flaws in your IT environment, and you'll get some insight on the best methods for finding and fixing your vulnerabilities -- before you're hit by malware or unauthorized access.Platinum Sponsors:NetIQ, Novell, thawte, WebrootGold Sponsors:ArcSight, Bit9, OpenTextSilver Sponsor:Application Security, Core Security, Lumension
+
+
+The2011 Informationweek 500 Conferencewill be held at the beautiful St. Regis Monarch Beach Resort, Dana Point, CA. Mark your calendars forSeptember 11-13, 2011.
+InformationWeek  Healthcare IT Leadership Forum
+
+Bank  Systems & Technology Executive Summit 2011

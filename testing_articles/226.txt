@@ -1,0 +1,44 @@
+Microsoft buys Nook stake, Barnes & Noble shares soar
+
+Image viaEngadget.
+Research in Motion made the case for the continued relevance of its BlackBerry platform during its Blackberry World keynote Tuesday morning. Three months after taking the helm at the struggling company, RIM CEO Thorsten Heins took the floor to argue for the “unique value” that BlackBerry delivers to its customers.
+Distinguishing BlackBerry customers from those of competing platforms, Mr. Heins provided some interesting statistics: 63 percent of smartphone users access social networks from their devices, compared to 87 percent of BlackBerry users. 65 percent of smartphone users access “organizational tools,” such as calendars and contacts while 91 percent of BlackBerry users do. Finally, 22 percent of smartphone users search for apps daily, compared to 34 percent of BlackBerry users.
+“BlackBerry customers do more and get more done in a day,” Mr. Heins argued, adding that the BlackBerry platform “creates and empowers customer success,” allowing them to stay ahead and save time.
+RIM also provided a preview of its upcoming BlackBerry 10 platform, one that industry analysts expect will make or break the company. Completely redesigned, BlackBerry 10 will provide users with a “swipe-based” interface, which RIM argues is faster to navigate that the “home button-based” approaches of its competitors.
+Multiple widgets can be run at once and access to apps and phone features is accomplished through a continuous swiping motion that rotates through open applications. The platform will also support advanced multitasking, allowing users to keep apps open in the background without an impact on battery life or performance.
+RIM’s new virtual keyboard in BlackBerry 10.
+Typing, one of the strengths of the BlackBerry platform, has also been revamped for on-screen keyboards, marking a departure from the physical keyboards that RIM has thus far been reluctant to abandon. The virtual keys in BlackBerry 10 are noticeably larger and better spaced than those in iOS and most Android implementations. The platform also uses predictive word suggestions which appear in between the rows of keys based upon the likelihood of the next intended word that a user may type. The user needs to simply swipe upward on the suggested word to insert it into a document.
+Perhaps most impressive was RIM’s demonstration of BlackBerry 10’s camera software. The software begins taking temporary pictures in the background as soon as the camera app is opened. When the user taps the screen to take the picture, the corresponding temporary image is displayed on the screen. If all or a part of the picture is undesirable, a pair of closed eyes for example, the user can zoom in to that area of the image and then scroll backward and forward between the temporary images to find the perfect frame in which the subject’s eyes are open. The image is then finalized and a “perfect” shot is created, something that would have previously required some light photoshop work, and only then possible if multiple images were taken.
+
+A picture taken with BlackBerry 10 shows one subject with her eyes closed (viaEngadget).
+Using the time adjustment slider, the user can scroll back or foward to a point when the subject’s eyes are open (viaEngadget).
+RIM emphasized that BlackBerry 10 is not simply a mobile phone and tablet OS; the company views the platform as a “revolutionary mobile computing engine” and envisions its application in areas “way beyond phones and tablets.” Automaker Porsche was on hand with a concept vehicle incorporating the BlackBerry 10 platform, which controlled navigation, vehicle maintenance, and entertainment, and was all easy to update over LTE.
+BlackBerry 10 will be available on new devices “later this year,” and Mr. Heins promised more updates on both the platform and upcoming devices before its launch. Assuming RIM can deliver on its promises, it may have at least a few features that can compete with Apple’s iPhone.
+Sounds like a couple of good features. My bet is that “advanced multitasking” is really “advanced task switching.” The suggested word feature might actually be nice. But I have to say that, as a blackberry user—a long-term blackberry user—I call b.s. on a couple of his statistics…social network tools and app searching specifically. If those are true, it’s because the actual question is very finely honed to produce a result that favors blackberry. I don’t think there’s anything better about app discovery on blackberry than iOS.
+As for the outline of blackberry’s future, was that done in chalk?
+Setting aside all the snarky comments I wanted to make:
+Multiple widgets can be run at once and access to apps and phone features is accomplished through a continuous swiping motion that rotates through open applications.
+That sounds like a great idea. It is a bit kludgy to be in Mail, hit Home, click on Safari, ckick on home, open a game etc. Being able to swipe between apps is a great idea.
+Finally, 22 percent of smartphone users search for apps daily, compared to 34 percent of BlackBerry users.
+I question that statistic. Actually I’d want to see a source on all of those statistics.
+The user needs to simply swipe upward on the suggested word to insert it into a document.
+Nice. I get so tired of iOS suggesting a word and then putting in its suggestion rather than what I want. Sometimes I want to say SYS or ADMIN and I don’t like that it wants to replace it with System or Administrator.
+Completely redesigned, BlackBerry 10 will provide users with a “swipe-based” interface,
+I wonder how the ‘old school’ BB business users will like that?
+Nice. I get so tired of iOS suggesting a word and then putting in its suggestion rather than what I want. Sometimes I want to say SYS or ADMIN and I don’t like that it wants to replace it with System or Administrator.
+I have turned off autocorrect and replaced it with a number of shortcuts. Mostly contractions, but also others such as ii to get an upper case I.
+Username
+Password
+Auto-login on future visits
+Show my name in the online users list
+
+Forgot your password?
+Looking to findonline casinos for mac? We can help you find the bestreal money  casinosites where you can play your favorite casino games including blackjack and slots.
+
+What's the buzz? These articles have TMO readers talking.
+Join the TMO Express Daily Newsletter to get the latest Mac headlines in your e-mail every weekday.Find out more!
+Get the latest installments of TMO Columns, Podcasts, & Blogs.
+© The Mac Observer, Inc. -- All rights reserved. All information presented on this site is copyrighted by The Mac Observer, Inc. except where otherwise noted. No portion of this site may be copied without express written consent. Other sites are invited to link to any aspect of this site provided that all content is presented in its original form and is not placed within another frame.  The Mac Observer is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple, Inc.
+Support The Mac Observer
+We noticed you may be running AdBlock on your computer. It takes real money to run this site and to deliver the news, tips, and opinions you love to read.
+If you wish to block the ads that pay for the creation of our content, we ask that you instead support TMO Directly, either with a $5 monthly recurring contribution, or a one-time donation of any amount of your choice.Thanks!

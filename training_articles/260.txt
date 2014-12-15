@@ -1,0 +1,24 @@
+Croatia's $980000 electric supercar
+At the center of the uproar over aGoogleproject that scooped up personal data from potentially millions of unsuspecting people is the company software engineer who wrote the code.
+The Street View project, a plan to photograph and map the world’s streets, also involved gathering information about local wireless networks.
+Google has declined to identify the engineer, as has theFederal Communications Commission. The F.C.C. recently closed its17-month inquiryinto the project, Street View, with a finding thatGoogle broke no laws but had obstructed its investigation.
+The agency also said it was unable to resolve all the issues it was considering because the engineer — whom it referred to in its report on the inquiry as Engineer Doe — cited his Fifth Amendment right and declined to talk.
+Now a former state investigator involved in another inquiry into Street View has identified Engineer Doe. The former investigator said he was Marius Milner, a programmer with a background in telecommunications who is highly regarded in the field of Wi-Fi networking, essential to the project.
+On his LinkedIn page, Mr. Milner lists his occupation as “hacker,” and under the category called “Specialties,” his entry reads, “I know more than I want to about Wi-Fi.”
+The former state investigator spoke on the condition that he not be identified because he was not authorized to speak. Although the F.C.C. declined to identify the engineer, a footnote in the full text of its report said Google told the agency the identity of Engineer Doe “only because it had disclosed his name to state investigators on December 17, 2010.”
+Google declined to comment.
+Mr. Milner, in a brief conversation on his doorstep in Palo Alto, Calif., Sunday night, said he could not answer any questions. He recommended calling a lawyer, Martha Boersch, who he said represented him. “She speaks for me,” he said.
+Ms. Boersch declined to comment Monday. A solo practitioner, her work focuses on state and federal false claims act, fraud, antitrust and securities cases. She worked as a federal prosecutor in San Francisco from 1992 to 2004.
+The Street View project was an ambitious plan to photograph and map the world’s streets that also involved gathering information about local wireless networks to improve location-based searches.
+A Google engineer went a step further, however, the F.C.C. report said, and included code to collect unencrypted data sent from homes by computers — e-mails and Internet searches — as specially equipped cars drove by. That data collection occurred from 2007 to 2010.
+Google long maintained that the engineer was solely responsible for this aspect of the project, which resulted in official investigations, some still unresolved, in more than a dozen countries. But acomplete version of the F.C.C.’s report, released by Google on Saturday, has cast doubt on that explanation, saying that the engineer informed at least one superior and that seven engineers who worked on the code were all in a position to know what was going on.
+The F.C.C. report also had Engineer Doe spelling out his intentions quite clearly in his initial proposal. Managers of the Street View project said they never read it.
+Depicting his actions as the work of a rogue “requires putting a lot of dots together,” Mr. Milner said enigmatically Sunday before insisting again he had no comment. He said he was closely following the news reports on the issue.
+Before joining Google in 2003, Mr. Milner worked at Lucent Technologies and Avaya, communications and computer networking companies, according to his LinkedIn page.
+Mr. Milner created a program called “NetStumbler,” the page also says, and describes the early version of NetStumbler as “the world’s first usable  ‘Wardriving’ application for Windows.”
+The F.C.C. report notes that wardriving is “the practice of driving streets and using equipment to locate wireless local-area networks using Wi-Fi, such as wireless hot spots at coffee shops and home wireless networks.”
+To design Street View’s code for locating wireless hot spots, the F.C.C. report states, “Google tapped Engineer Doe.”
+The engineer — Mr. Milner’s LinkedIn entry says he has worked at Google’s YouTube subsidiary since November 2008 — wrote the code during the 20 percent of work time that the company gives employees to pursue ideas on their own, Google told the F.C.C., according to the agency’s full report.
+Also in Real Estate »
+America does not have to rebuild a failing state in order to accomplish our original goal after 9/11.
+An artist who uses cigarettes to help soothe his anxiety asks: Why do I love most the very things that will kill me?

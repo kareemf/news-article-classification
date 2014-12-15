@@ -1,0 +1,71 @@
+Showalter gets 1000th win, Matusz ends skid
+PHILADELPHIA -- It has been easy to be dismissive of theNew Jersey Devilsthis spring.
+They defeated Florida in a seven-game, first-round series that some accurately described as the series that hockey forgot.
+Low profile?
+With the myriad storylines from the first round, no profile seems more accurate.
+The Devils played well early in Game 1 but were overwhelmed by the high-octanePhiladelphia Flyers' offense and lost 4-3 in overtime.
+So, when news broke Tuesday morning that star New Jersey forwardIlya Kovalchukwould not be available for Game 2 due to a lower-body injury he's been battling since earlier in the playoffs, well, maybe that tendency to dismiss the Devils bled right into the Flyers' locker room.
+Whatever the case, the Devils responded to Kovalchuk's absence with their best game of the playoffs as they evened this Eastern Conference semifinals at one game apiece with an emphatic 4-1 victory.
+It isn't just the score that should give the Flyers and everyone in the hockey world pause, but the manner in which the score was achieved.
+Quite simply, the Devils routed the Flyers on Tuesday night.
+Were it not forIlya Bryzgalovturning in his finest performance of the postseason -- he stopped 31 of 34 shots and was under siege for long periods -- this would have been an epic beating. See: 10-3 Pittsburgh in Game 4 of the first round for a reference point.
+The Devils won every meaningful puck battle.
+They disrupted countless Flyers breakouts.
+Using a makeshift lineup that saw defensemanPeter Harroldmove to the wing and rookie defensemanAdam Larssonpressed into service in his first NHL playoff game, the Devils created a plethora of scoring chances.
+Even when the Devils could not solve Bryzgalov in spite of a 12-2 edge in shots in the second period and trailed 1-0 going into the third, they did not falter.
+"He was making some great saves," forwardZach Parisesaid. "You start to wonder after a while, 'Are we going to get one past him?'
+"I think after we got the one, we kept coming. He played great. And we didn't allow ourselves to get frustrated, which is a hard thing to do sometimes."
+start podcastHockey Today(function() {
+var podplayer = new flashObj(), a = document.createElement('audio'), aId = 'audio'+Math.ceil(Math.random()*1e10);
+podplayer.flashFile = "http://a.espncdn.com/swf/espnradio/09/audio_player_circular_v2.swf";
+podplayer.flashVars = "&soundLink=http://c.espnradio.com/audio/964065/hockey_2012-05-01-145005.mp3";
+podplayer.width = "86";
+podplayer.height = "70";
+podplayer.scale = "noorder";
+podplayer.salign = "lt";
+podplayer.wmode = "transparent";
+podplayer.allowScriptAccess = "Always";
+podplayer.allowNetworking = "All";
+podplayer.DenyIEdl = "TRUE";
+podplayer.FlashVer = 8;
+podplayer.cabVersion = "8,0,0,0";
+podplayer.altTxt = '<a id = "'+aId+'" href = "http://c.espnradio.com/audio/964065/hockey_2012-05-01-145005.mp3" style = "width: 250px;">Play Podcast</a>';
+podplayer.ID = "flashPodcastSwf";
+podplayer.render(true);
+jQuery('#'+aId).live('click', function(e) {
+if(!!(a.canPlayType && a.canPlayType('audio/mpeg;').replace(/no/, ''))) {
+e.preventDefault();
+jQuery(this).replaceWith('<audio src="http://c.espnradio.com/audio/964065/hockey_2012-05-01-145005.mp3" controls="controls" style="width: 250px;"></audio>');
+}
+});
+})();Scott Burnside, Pierre LeBrun and Craig Custance discuss the latest on the NHL playoffs, including thoughts on Radulov, Kostitsyn, Ovechkin, Kovalchuk, Blues-Kings and more.More Podcasts »end podcast
+Scott Burnside, Pierre LeBrun and Craig Custance discuss the latest on the NHL playoffs, including thoughts on Radulov, Kostitsyn, Ovechkin, Kovalchuk, Blues-Kings and more.
+More Podcasts »
+The message remained simple, netminderMartin Brodeursaid: "Guys, just keep on shooting; he's going to give up something and when he does, it might be more than so that's what happened."
+There was some poetic justice that it was Larsson, the fourth overall pick in last June's draft, who broke the ice for the Devils early in the third period.
+The talented Swede has been biding his time as a healthy scratch, trying to stay positive while his teammates battled through the first round of the playoffs.
+Larsson praised the support of his teammates and the coaching staff, and then he made the most of opportunity when it came knocking; not unlike last year's dramatic appearance by Boston rookieTyler Seguinin the middle of the playoffs.
+"I just tried to shoot it high and was lucky to get it in," Larsson said of his goal.
+"Well I'm not a goal scorer, so of course I was happy for that, and I think that you can see that we got everybody going after that. We scored two, three, four there, so it was very important, I think. We played really good today, and I think we wear them down pretty good there."
+Tuesday morning when Devils GM and president Lou Lamoriello, coach Pete DeBoer and the rest of the players talked about guys stepping up in Kovalchuk's absence, getting an opportunity to shine, there was more than a little predictability to the commentary.
+What else were they going to say? We're sunk without Kovalchuk?
+But to actually produce such a dominating performance suggests that if folks haven't been taking note of the Devils to this point, well, they might want to, because it appears they haven't been buying all of the hype about the Flyers' prowess.
+"You know what? Kovy's one of the best players in the whole NHL and so you take him out of the lineup, it's going to hurt you," Brodeur said. "But, again, you pride yourself and as an organization to try to get some depth and other people to be able to step in when things like that happen."
+If the commentary in the Flyers' locker room is any indication, Game 2 certainly was more than a little sobering -- as it should have been.
+"It wasn't just the offense, it was three zones. They were quicker, they were more competitive on the puck, than we were," Philadelphia coach Peter Laviolette said.
+"In the end, the results are just based on our play."
+The Devils nullified the potent Flyer power play, denying them on five chances in Game 2. This marked the first game in eight postseason contests in which the Flyers failed to score with the man advantage.
+"Yeah, it's pretty disappointing having a one-goal lead going into the third period," said Flyers forwardMatt Read, who scored the lone goal Philadelphia goal just 2:53 into the game. "You just have to win a period to win a game and have a two-nothing lead going into New Jersey, but we didn't take advantage of the situation. We came out flat and they took advantage of it. Now it is 1-1.
+"We are not doing the little things right. We are not moving our feet. I think we are a lot better, we just have to keep moving our feet and do the simple things. No team can beat us when we are on our game."
+In the giddy Devils locker room, there was lots of good-natured discussion about David Clarkson's winning goal and the aftermath.
+Clarkson had 30 goals during the regular season and had not scored this spring before finding himself with the puck at the side of the net and Bryzgalov down midway through the third period. After he scored, he was pushed into the goal and ended up suspended for a time on the crossbar.
+"It's nice for him to go to the net and score the typical one of his goals, just hardnosed, jump on the crossbar, hold it for a second for pictures," Brodeur joked.
+"I was happy for him. He works hard and he's got the beard, too, and he's proud of that; it's good."
+If there was a sense of having discovered something in the Devils' room, there was likewise a sense of something missing in the Flyers' room.
+"It is all about the will and desperation. We have to get that back. So far in this series we have only had it for about three periods," Game 1 overtime hero Daniel Briere said.
+"There is no sense in me telling you how good we are. You guys have seen us all year. You know if we are good or not. One thing I can tell you is that we need to have more desperation if we want to get back to winning games."
+Connect with Facebook to share your ESPN activities.Learn more »
+Learn about sharing your ESPN activites on Facebook »
+Close
+Follow the NHL on ESPN:Twitter/FacebookEASTERN CONFERENCENo. 1 Rangers vs. No. 7 WashingtonSeries preview »Scouting reportNo. 5 Philadelphia vs. No. 6 New JerseySeries preview »Scouting reportWESTERN CONFERENCENo. 2 St. Louis vs. No. 8 Los AngelesSeries preview »Scouting reportNo. 3 Phoenix vs. No. 4 NashvilleSeries preview »Scouting reportCONFERENCE SEMIFINALSPlayoffs schedule »Complete coverage »5 Things: Storylines »5 Things: Conn Smythe candidates »Experts: Conference semifinals predictions »Vote: Which team will win the East? »Vote: Which team will win the West? »
+Most Sent »

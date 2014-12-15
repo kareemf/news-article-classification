@@ -1,0 +1,16 @@
+Jawbone Big Jambox (black/graphite)
+Google and its partner Onix Networking justwona$35 million contractto run theU.S. Department of the Interior‘s new cloud-based email and collaboration system. This wasn’t always a sure bet for Google. In 2010, the Department of the Interior awarded Microsoft a $59.3 million contract to run its email and collaboration system. Google and its Ohio-based partner Onix Networking quickly filed a suit to block this contract. In Google’s view, the Interior Department’s procurement process unfairly favored Microsoft and never gave it a fair chance. Google finallywithdrewits lawsuit last September after the Department scrapped its plans to use Microsoft’s solution because its original decision was “now stale in light of new developments in technology and entrants into the market.”
+The arguments between Google and Microsoft got rather heated at one point last summer. Microsoft evenallegedthat Googlefalsely advertisedthat its solution was certified by the General Services Administration for use in government agencies.
+Once this migration is complete, the Department of the Interior will become the largest major U.S. government agency to switch to Google’s cloud. Other agencies already using Google Apps for Government are NOAA, the GSA, the Lawrence Berkeley Laboratory and the Idaho National Laboratory . A number of state governments also made the switch to Google’s solutionrecently. (Correction:This story previously stated that the DOI is the second agency to switch. It is actually the fifth one. The story now reflects this correction.)
+This being a government contract, things are obviously not as easy as just moving all the existing mailboxes over to the new system. Instead, this contract gives Google and its partner the right to “demonstrate they can meet the Department’s objectives for an integrated suite of tools and services, information assurance and regulatory compliance.” The actual migration is expected to be done by December 2012. In total, this process will involve the migration of over 90,000 mailboxes away from the Department’s aging systems toGoogle Apps for Government.
+Microsoft, of course, was not too happy with this decision and has issued the following statement:
+Microsoft has a positive, longstanding relationship with the Department of Interior and we are working on a number of enterprise-wide initiatives with the agency. Although we are disappointed by this award, we will engage with our partners and DOI to review and understand the reasons for this decision. Microsoft remains committed to providing our customers with the cloud services that have the performance, security, privacy and other capabilities they expect and deserve.
+Sponsored Ads
+Sponsored Ads
+Sponsored Ads
+Disrupt NY Hackathon 2012
+New York City
+Disrupt NY 2012
+New York City
+Disrupt SF 2012
+San Francisco, CA

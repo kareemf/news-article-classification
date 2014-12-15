@@ -1,0 +1,26 @@
+After legal tussle, Google beats Microsoft for large US contract
+NASA Study Says Global Energy Is Out Of Balance
+Westport's Mini Maker Faire and the Hands-On Approach to PCs, Robots, and More
+App4Drivers app for iPhone Monitors and Reports Driving Habits
+
+The authors of MacOS malware'Flashback'are reaping an estimated $10,000 a day by through an additional component, Symantec reports.
+On Tuesday nightSymantec reportedthat in addition to the much-reported spyware component, Flashback also installs an ad-clicking component that works in Google Chrome, Mozilla Firefox, and Apple Safari browsers."
+Here's how it works: when an infected user conducts a Google search, Google will return its normal search results. Flashback waits for someone to click on an ad, and once this happens the user is silently directed to another, irrelievant ad that generates revenue for the attackers.
+As a result, Google doesn't know someone has clicked into its client's ad, and the client never knows its ad wasn't delivered. Ultimately, Google's advertising clients are paying for Flashback's attackers to host ads on Google.
+"There's very little Google [or any other search engine] can do about it," said Vikram Thakur, a principal security response manager at Symantec. "From their perspective, they've posted an ad that nobody has clicked on." The only thing that can stop this is for infected users toclean their computers.
+Click fraud is a common component of Windows malware, but Thakur said this is the most sophisticated campaign he's seen in MacOS.
+Symantec said each click generates 0.08 cents for the attackers. Sounds like chump change, but if Flashback has truly infected around650,000 Macsas reported by Dr. Web, Symantec said the authors are making upwards of $10,000 a day from click fraud. This estimate was calculated by cross-multiplying the results of another ad-clicking Trojan from last August, W32.Xpaj.B.
+Ad Click Evades SinkholeThakur said the ad-clicking component is still active in infected Macs that have been sinkholed. Sinkholing blocks anticipated server domain names used by command-and-control servers, which prevents the Trojan from receiving instructions from their commander.
+My coworker Neil Rubenking pointed out that the distinction with ad-serving servers is that they are not intrinsically bad—they aren't typically picked up by security firms and don't need to constantly change domain names.
+Last week Dr. Web reported that Twitter was being used to disseminate domain names as well. If an infected machine receives an incorrectly formatted reply from a C&C server, it searches Twitter for the real C&C's IP address. The Russian security firm began taking over domains in this category on April 13, but said Twitter blocked the account the next day.
+"These Guys Aren't Amateurs"To increase the lifecycle of this quick money-making scheme, Thakur said the malware authors introduced a "cool feature": a whitelist. The whitelist is a list of search terms on which Flashback is NOT triggered; these are search terms typically bought into by high-profile clients like PayPal and Wikipedia who would likely notice immediately if their ads weren't yielding clicks.
+"These people aren't amateurs," said Thakur. "They knew exactly what needed to to be done to increase the lifecycle of this Trojan."
+
+Automatic Renewal Program: Your subscription will continue without interruption for as long as you wish, unless 
+you instruct us otherwise. Your subscription will automatically renew at the end of the term unless you authorize 
+cancellation. Each year, you'll receive a notice and you authorize that your credit/debit card will be charged the 
+annual subscription rate(s). You may cancel at any time during your subscription and receive a full refund on all 
+unsent issues. If your credit/debit card or other billing method can not be charged, we will bill you directly instead.
+Use of this site is governed by ourTerms of UseandPrivacy Policy.Copyright 1996-2012 Ziff Davis, Inc. All Rights Reserved. PC Magazine is a registered 
+
+trademark of Ziff Davis, Inc. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, Inc. is prohibited.

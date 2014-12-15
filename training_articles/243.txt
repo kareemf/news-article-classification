@@ -1,0 +1,33 @@
+Big Jambox, Bose SoundLink put new spin on old boombox
+After years of development, Microsoft  takes the wraps of its next-gen operating system.
+The Great Debate series aims to emulate an Oxford-style debate, with a dash of Fight Club mixed...
+See the managed print services conversation come to life.
+Happy birthday, ZDNet! Twenty years ago, this site began as a subscription-based digital service...
+Gadget gift ideas and product recommendations from ZDNet editors.
+ByMary Jo Foley| May 1, 2012, 8:55am PDT
+Summary:After a couple of years wrangling in and out of court, the Department of the Interior has decided to go with Google, not Microsoft, for a multi-year, multimillion-dollar hosted e-mail contract.
+The U.S. Department of the Interior has switched horses and is now going with Google Apps rather than Microsoft’s hosted e-mail/collaboration alternative for its 88,000 employees.
+Originally, the DOI’s plan was to go with Microsoft’s Business Productivity Online Suite (BPOS) to replace its agency-wide e-mail system. But in October 2010,Google and its partner Onix Networking sued the DOI over its planned award, claiming it unfairly benefitted Microsoft. The suit called out the DOI for not considering Google Apps in its Request for Quotation (RFQ). This wasn’t the first timeGoogle had complained publicly about the award of a government contract to Microsoft.
+The original DOI RFQ stated that the agency was seeking a new, unified e-mail, calendaring and collaboration solution, but limited the acceptable options to Microsoft’s Business Productivity Online Suite (BPOS) Federal suite only. The contract was worth $49.3 million over five years.
+In September last year,Google dropped its suit against the DOI over the contract. Then, yesterday, April 30, 2012, a public notice revealed that Google Appps Premier Enterprise resellerOnix has been awarded a contract for the DOI’s hosted e-mail and collaboration system. The notice states that the winning bid was $34.9 million over seven years — considerably less than the DOI was prepared to pay last year.
+(Thanks toAndrew Blevins of Microsoft partner Azaleosfor the tweeted heads-up about the just-posted award notice.)
+TheDOI’s updated RFP (D12PS00041), posted January 9, 2012, was for a cloud-based e-mail and collaboration services system which will replace the current set of disparate on-premises systems. According to the RFP, the new system needed to be able to accommodate the provision of services “in a government community or private cloud solution that includes cloud-based email, calendaring, email archiving, journaling, instant messaging, desktop video conferencing, and support for mobile devices.” It also called for a system which provided “a secure computing environment that complies with all required federal regulations and DOI specific security requirements” and that allowed full accessibility and data portability to another cloud or in-house platform at the end of the contract.
+According to last year’s legal complaint, the DOI’s requirement for a private-cloud solution for security reasons may have played a big part in why Microsoft originally was awarded the bid. BPOS Federal — the precursor towhatever equivalent Microsoft has coming on the Office 365 front–  is a dedicated, locked-down version of BPOS that is basically like a privately hosted version of Microsoft’s Exchange Online, SharePoint Online, Communications Online and Live Meeting. Google Apps for Government is a multi-tenant hosted solution.
+I’ve asked both Microsoft and Onix for their takes on what led to the DOI’s decision to go Google. An Onix spokesperson said the company was planning to publish a press release about the win soon and had nothing to say in the interim.No word back from Microsoft so far.
+Update: This just in from a Microsoft spokesperson:
+“Microsoft has a positive, longstanding relationship with the Department of Interior and we are working on a number of enterprise-wide initiatives with the agency. Although we are disappointed by this award, we will engage with our partners and DOI to review and understand the reasons for this decision. Microsoft remains committed to providing our customers with the cloud services that have the performance, security, privacy and other capabilities they expect and deserve.”
+Kick off your day with ZDNet'sdaily e-mail newsletter. It's the freshest tech news and opinion, served hot.Get it.
+Mary Jo has covered the tech industry for more than 25 years for a variety of publications and Web sites, and is a frequent guest on radio, TV and podcasts, speaking about all things Microsoft-related. She is the author of Microsoft 2.0: How Microsoft plans to stay relevant in the post-Gates era (John Wiley & Sons, 2008).
+Freelance journalist/blogger Mary Jo Foley has nothing to disclose. WYSIWYG (what you see is what you get).  I do not own Microsoft stock or stock in any of its partners or competitors.  I have no business ventures that are sponsored by/funded by Microsoft or any of its partners or competitors.
+Mary Jo Foley has covered the tech industry for 25 years for a variety of
+publications, including ZDNet, eWeek and Baseline. She has kept close tabs
+on Microsoft strategy, products and technologies for the past 10 years. In the
+late 1990s, she penned the award-winning "At The Evil Empire" column for ZDNet,
+and more recently the Microsoft Watch blog for Ziff Davis.
+Got a tip? Send her an email with your rants, rumors, tips and tattles. Confidentiality guaranteed.
+TECH VISUALIZER brings the social conversation to life... powered byBrocade
+Get the best of ZDNet delivered straight to your inbox
+The new iPad  is a good tool for getting things done.
+Facebook's privacy and security settings have changed massively.
+Ed Bott reveals small but useful hidden shortcuts, surprises, and secrets.
+Corporate mergers can end in utter disaster.

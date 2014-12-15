@@ -1,0 +1,284 @@
+Google Street View privacy scandal broadens
+Updated 02 May, 2012, 10:45 am IST
+GETEMAIL UPDATESCLOSESTAY UPDATED WITH:Mid Morning UpdateDaily NewsletterWeekly Newsletter
+CLOSE
+STAY UPDATED WITH:
+Mid Morning Update
+Daily Newsletter
+Weekly Newsletter
+
+HTC One X
+Enter the fastest Android powered handset to date loaded up with the 1.5GHz Quad Core, the One X is aiming for top slot on the smartphone throne.
+
+EDITOR’S RATING
+7.5
+Asus HD 7870...
+For the first time, AMD has launched their entire graphics card line-up, catering to all the segments in less ...
+
+EDITOR’S RATING
+7.0
+Logitech Wireless...
+We’ve all seen a bunch of wireless keyboards and mice, but if you’re someone who uses an HTPC in their ...
+
+EDITOR’S RATING
+7.0
+Nokia 603
+The 603 is a living proof of the fact that Nokia isn't going to let go of its Symbian platform. At least not just yet.
+
+EDITOR’S RATING
+7.0
+Move Street Cricket
+All bat and no bowl makes Move Street Cricket a dull game.
+
+EDITOR’S RATING
+4.0
+HOT TOPICS
+LATEST REVIEWS
+Epson ME Office 535 Review
+7.5
+Cooler Master Trigger Review
+Canon PowerShot A2400 IS Review
+LATEST VIDEO REVIEWS
+
+Tech2 checks out the Objet Connex 350
+During our recent trip to Chennai, we got the chance to spend a couple of hours with the world’s only multi material 3D printer – the Objet Connex series.
+
+On video: Motorola Atrix 2
+We got the Motorola Atrix 2 in the Tech2 labs. Check it out.
+NEWS/SMARTPHONES
+02 May, 2012, 10:44 am IST|by|<span class="comt ML10">33</span> Comments
+Research In Motion Ltdon Tuesday offered initial software tools to developers looking to create applications for its new BlackBerry 10 platform, moving a step closer to perhaps the most crucial launch in its history later this year.Aiming to reverse huge market-share losses to Apple Incand Google Inc'sAndroid, RIM is essentially starting from scratch with its next-generation BlackBerry 10 devices. The new platform will be compatible with few of the apps available for its existing smartphones, and legacy BlackBerry smartphones won't be able to run apps being created for the new platform.
+
+RIM already is far behind Apple and Android in getting independent developers and content producers to build apps, making the BlackBerry much less attractive to consumers. RIM is looking to change that.
+
+"Developers building for BlackBerry 10 will be able to easily create the kind of cutting-edge apps that deliver truly engaging experiences," said Alec Saunders, RIM's head of developer relations.
+
+To kick-start the effort, RIM this week is handing out a prototype device, known as the Alpha Dev, to developers at its BlackBerry World conference in Orlando. The handset will enable them to test how their creations perform on the new platform. Unlike most other BlackBerry models, Alpha Dev has no physical keyboard. It looks like a smaller version of RIM's PlayBook tablet, complete with a touch-sensitive frame that a user swipes to call up a menu.
+
+BlackBerry 10, will it be all the RIM is hoping?
+
+
+While RIM says the hardware it eventually launches will look much different than the prototype, apps built for the Alpha Dev's 4.2 inch screen will allow for a "very seamless transition" to BlackBerry 10 devices, said Christopher Smith, vice-president for application platform and tools.
+
+The toolkits RIM is offering cover work in native code, the Cascades user interface framework and web-based HTML5. Cascades helps in the creation of graphically rich work, while native code gives developers access to core device features such as the camera. Work created with HTML5 - commonly used by developers of web content - is typically transferable to other mobile devices.
+
+Cascades was developed by The Astonishing Tribe, a Swedish user interface company RIM bought in 2010. It offers guidelines and a "cookbook" where developers can select an effect with a touch and have it written directly into their software. For example, a developer can select the speed at which an icon drops down the screen and whether it bounces to a stop without worrying about the algorithms and code behind it.
+
+RIM said it would add more tools in coming months and apps created with any of the BlackBerry 10 tools will run on the company's poor-selling PlayBook once the tablet is upgraded to the new platform. They will not work on RIM's older smartphones. RIM said it had been working with some partners to ensure users have content and apps waiting for them when the devices are launched. Among those developers are social fitness app maker Endomondo, magazine store PixelMags, local search app Poynt, and augmented reality company Wikitude.
+
+Gameloft said it was working to bring 11 games to the new platform, including a puzzle game called "Shark Dash" and a more immersive title, "N.O.V.A 3: Near Orbit Vanguard Alliance."
+
+"RIM has got it right with the BlackBerry 10 platform," said Adam Linford from Truphone, which offers local calling and data rates while its customers are roaming. "The platform's support for open-source components flattens the learning curve, enabling us to build a new application quickly and cost effectively."
+
+Impressing developers is crucial for RIM, which has expanded beyond its traditional strength in providing mobile email to office workers, only to struggle against the more consumer-friendly iPhone from Apple and the slew of devices that make use of the Android platform.
+
+Waterloo, Ontario-based RIM has around 15,000 apps for its PlayBook tablet and 70,000 apps for its smartphones or the tablet, compared with 200,000 iPad apps, and half a million for the iPhone. A recent survey from Appcelerator and IDC showed less than 16 percent of developers were "very interested" in creating programs for RIM, compared with 90 percent for Apple and 80 percent for Android.
+
+Earlier on Tuesday, research firm IDC said that RIM's share of the global smartphone market had slipped to 6.7 percent in the first quarter, from 13.6 percent a year earlier.
+
+Reuters
+Tags:BlackBerry World 2012,BlackBerry Jam 2012,BlackBerry 10 OS,BlackBerry 10 Developer Alpha,Developer Alpha BlackBerry 10 OS,BlackBerry 10 test unit,BlackBerry 10 smartphone,BlackBerry 10 demo unit,BlackBerry 10 OS video,BlackBerry 10 video,BlackBerry 10 QNX,BlackBerry 10 developer alpha specs,BlackBerry 10 developer alpha display,BlackBerry 10 Developer Alpha features,BlackBerry 10 Developer Alpha keyboard,BlackBerry 10 Developer Alpha Specs,Research In Motion Ltd,RIM,RIM Smartphones,BlackBerrry Smartphones,Blackberry App,Blackberry App World
+First real world images of a BlackBerry 10 handset surface
+In the past, we had seen an official looking slide displaying what the upcoming BlackBerry 10 handset would ...
+02 May, 2012, 02:36 am IST
+Thorsten Heins in the BlackBerry World 2 ...
+02 May, 2012, 03:12 am IST
+Occipital Shares Development of BlackBer ...
+01 May, 2012, 11:47 pm IST
+BlackBerry 10 Released at RIM's BlackBer ...
+28 Apr, 2012, 07:21 am IST
+BlackBerry World 2012_ Latest Games For  ...
+
+Another leaked photo of the Galaxy S3 surfaces ahead of launch
+28 Apr, 2012, 09:28 AM IST
+Galaxy S III to have a 4.8-inch screen
+30 Apr, 2012, 02:03 PM IST
+Report claims PureView Lumia to not be unveiled in the near future
+30 Apr, 2012, 11:55 AM IST
+All you need to know about mobile phone chipsets
+28 Apr, 2012, 09:28 AM IST
+Motorola Atrix 2 Review
+27 Apr, 2012, 09:29 AM IST
+Another leaked photo of the Galaxy S3 surfaces ahead of launch
+28 Apr, 2012, 09:28 AM IST
+Huawei Ideos X5 Pro Review
+25 Apr, 2012, 09:12 AM IST
+Motorola Atrix 2 Review
+27 Apr, 2012, 09:29 AM IST
+Galaxy S III to have a 4.8-inch screen
+30 Apr, 2012, 02:03 PM IST
+How To: Supercharge your Android Smartphone
+23 Apr, 2012, 10:09 AM IST
+
+Motorola Atrix 2 Review
+27 Apr, 2012, 09:29 AM IST
+8.0
+Motorola is working hard to retain their footing in the smartphone segment and so far, they’ve been faring quite well. Their recent attempt at a
+Huawei Ideos X5 Pro Review
+BlackBerry Curve 9220: New Bottle, Old Wine
+HTC One X: The Fastest Android Yet
+Nokia 603 Review
+Sony Xperia S Review
+MORE REVIEWS
+Sony Ericsson Xperia Neo V Review
+01 Dec, 2011, 10:25 AM IST
+7.0
+One of the newer devices that recently rolled out of the Sony Ericsson shed is the Xperia Neo V. Designed ...
+G'Five G5 Projector Dual SIM (GSM + GSM) Mobile Phone
+Samsung Galaxy Fit S5670 - Falls Just a Little Short of 'Fit'
+Samsung I9100 Galaxy S II - The Best Android Yet!
+Samsung Galaxy Y (GT-S5360) Review
+Sony Ericsson Live with Walkman Review
+MORE 
+        REVIEWS
+Sony Ericsson Xperia Neo V Review
+01 Dec, 2011, 10:25 AM IST
+7.0
+One of the newer devices that recently rolled out of the Sony Ericsson shed is the Xperia Neo V. Designed ...
+Micromax A75 Superfone Lite Review
+Samsung Galaxy Y (GT-S5360) Review
+G'Five G5 Projector Dual SIM (GSM + GSM) Mobile Phone
+Nokia Lumia 800 Review
+Samsung I9100 Galaxy S II - The Best Android Yet!
+MORE REVIEWS
+
+All you need to know about mobile phone chipsets
+A breakdown of what makes a System on a Chip (SoC) and a round-up of the...
+ByRoydon Cerejo
+Mobile Grudge Match - HTC One X vs Apple iPhone 4S
+Today, we’ll be pitting two mighty titans against each other to...
+ByRoydon Cerejo
+Top 10 Android Smartphones
+Here's Tech2's list of top 10 Android handsets that are...
+ByShayne Rana
+MORE FEATURES
+Top 10 Android Smartphones
+Here's Tech2's list of top 10 Android handsets that are...
+ByShayne Rana
+Mobile Grudge Match - HTC One X vs Apple iPhone 4S
+Today, we’ll be pitting two mighty titans against each other to...
+ByRoydon Cerejo
+Hands-on with the Nokia 808 PureView
+Nokia is still going strong with their Belle devices and with their new...
+ByKaran Shah
+MORE FEATURES
+Top 10 Android Smartphones
+Here's Tech2's list of top 10 Android handsets that are...
+ByShayne Rana
+Mobile Grudge Match - HTC One X vs Apple iPhone 4S
+Today, we’ll be pitting two mighty titans against each other to...
+ByRoydon Cerejo
+All you need to know about mobile phone chipsets
+A breakdown of what makes a System on a Chip (SoC) and a round-up of the...
+ByRoydon Cerejo
+MORE FEATURES
+
+Nokia 603 Review
+09 Apr, 2012, 01:58 PM
+3.5
+Sony Xperia S
+02 Apr, 2012, 09:52 AM
+4.4
+Upcoming phones to look for – March 2012
+24 Mar, 2012, 04:21 PM
+3.7
+MORE PHOTOS
+
+Motorola Atrix 2
+Brother MFC-J430W
+Intel Ivy Bridge Review
+Huawei Ideos X5 Pro
+Infinity Blade 2
+Motorola Atrix 2
+Huawei Ideos X5 Pro
+Samsung Galaxy Note
+Motorola RAZR XT910
+Sony Ericsson Xperia Active
+Asus Eee Pad Slider (SL101)
+Reliance 3G Tab
+Amazon Kindle Wi-Fi
+LACS Magnum Tablet
+Samsung Galaxy Tab P1000
+Asus X53SC
+Dell Inspiron 15R
+The MSI GT663R
+ASUS K42Ja
+Macbook Air 11-inch
+ZOTAC GTX 680
+XFX Radeon HD6790
+AMD Radeon HD6970
+NVIDIA GeForce GTX 560 Ti
+Galaxy GTX 570
+Infinity Blade 2
+Ridge Racer Unbounded
+Journey
+Mass Effect 3
+SSX
+Nikon D7000
+Olympus XZ-1
+Canon Powershot S100
+Panasonic DMC-TZ20
+Sony Alpha SLT-A55
+Panasonic VIERA TH-P65VT30D
+Sony Bravia KDL-55HX925
+Philips Cinema 21:9 3D
+The LG Infinia 55LX9500 Full HD 3D LED TV - Beauty, Beast or Both?
+Mitashi 24 Inch LED TV - As Cheap As They Come
+JBL OnStage IV
+Logitech S715i
+JBL On Stage Micro iPod Dock
+Logitech N700
+Ozaki iMini Pet iPod Dock
+MSI E350IA-E45
+The ASUS Rampage III Extreme
+ECS A890GXM-A Motherboard
+Asus Sabertooth 55i
+Biostar G41D-M7
+Brother MFC-J430W
+
+Xerox Phaser 6000
+Epson Stylus Photo R3000
+Dell 1250c
+Corsair Force Series 3 120 GB
+Silicon Power Stream S10 750GB
+Seagate GoFlex Home
+Hitachi Travelstar Z5K320 - A Fast Drive At A Low Cost
+Clickfree HD 325 Portable Backup Drive
+Sennheiser HD449
+Sennheiser HD518
+Zebronics Diamond Series DJ Headphones
+Philips SHL 5002 Headphones - Get Some Colour in Your Life
+AKG GHS1 Gaming Headphones - The Fortunate Soldier
+RIM offers BlackBerry 10 tools to lure...
+Karbonn Mobiles collaborates with Dolby to
+Windows Phone variant of Galaxy S 3 may be
+HTC Desire S price slashed to Rs.15,990
+Kindle Fire makes up for half of all...
+Hands-on with the elusive Ubislate 7+ and...
+Apple's new iPad officially launches...
+DataWind launches Ubislate 7+ and 7C...
+HP refreshes its Pavilion-G Series...
+Apple to launch a cross between the...
+Why Ultrabooks just aren’t a VFM...
+Wipro e.go Aero Ultra Review
+Call of Duty: Black Ops II is official
+Games of May 2012
+God of War: Ascension will have multiplayer
+Game4U's FIFA Street Corporate...
+Canon PowerShot A2400 IS Review
+Canon PowerShot SX260 HS Review
+Still in the frame, the camera defies...
+Nikon 1 J1 Review
+LG announces new IPS4 series monitors
+LG launches 3D World – new premium 3D...
+Panasonic VIERA TH-P50ST30D Review
+LG voice control with Magic Remote coming...
+About Us|Site Profile|Tech2 Team|IBNLive News|IBNLive Hindi News|Cricket News|Indian Stock Market|Policy|T & C
+Copyright © 2011, Tech2.com India - A Network 18 India Venture
+Live TV|FEEDBACK|
+
+Select Product CategoryTelevisionsAudio SystemsMobile PhonesMonitorsScannersLaptopsDVD PlayersPrinters (Laser)Printers (Inkjet)Multi Functional DevicesDigital ProjectorsDigital CamerasMP3 PlayersCamcordersNetbooksDesktop PCsCPUDigital Photo FramesInternal Hard DrivesHome TheatersExternal Hard DrivesGraphic CardsRAMCasesMotherboardsMiceiPod DockWebcamsSpeakersPen DrivesGPS NavigatorsBluetooth HeadsetsHeadsetsGaming ConsolesInternet Security and AntivirusBlu-ray PlayersRoutersGamesTablet/Slate PCsInternet Service ProvidersMobile Tariff PlansDTH Service Providers
+
+a href="javascript:;" class="gL_11n"><strong>Save Recommended Stories</strong></a
+Save this Comparison
+Clear all Comparisons

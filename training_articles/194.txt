@@ -1,0 +1,24 @@
+Hands-on: BlackBerry 10 Dev Alpha
+ORLANDO, US--Unveiled at the BlackBerry World conference, theBlackBerry 10 Dev Alpha devicewill not be seen on store shelves. Instead, it’s meant only for the hands of developers to test drive apps.
+As a result, RIM is being tight-lipped on much of the device’s specs, including the processor speed, camera megapixel count and display type.
+The first thing that strikes you is the bright and sharp screen. So far, we know that it’s a 4.2-inch 1,280 x 768 pixels (WXGA) display, but not the type of screen or pixel layout. That brings the device’s pixel density to 355 ppi, which beats theiPhone’s 326 ppi Retina Display hands down.
+Many have dubbed the Dev Alpha a miniPlaybook, and little wonder. The full touchscreen form factor is similar, and even the Dev Alpha is made from the same matte black material that covers the PlayBook’s back.
+While we’re on the topic of RIM’s tablet, the Dev Alpha seems to be running a barebones OS that’s reminiscent of thePlayBook OS 2.0. In fact, checking the prototype’s software version shows “PlayBook OS 10”.
+Since BB 10 is going to be QNX-based, there are going to be some similarities between the PlayBook OS 2.0 and the next-generation operating system. However, Smith adds that what is seen on the Dev Alpha now is not reflective of the final UI, which will actually look more like Live Tiles on Windows Phone.
+This being a prototype device, the software was buggy at times, and didn’t always detect our fingers. Also, there are no pre-installed apps except the camera and browser.
+We didn’t get to test the amazing time warp function, where you can scroll a few frames forward or backward to get the best shot. All images that were shot via the front- and rear-facing cameras also simply disappeared off the screen.
+With BB OS 10, you’re supposed to be getting the new onscreen keyboard. This feature wasn’t available on the device we tested, but our CNET US counterpart Brian Bennett did try it, and hadgood things to say about it:
+At first glance it doesn't look like much, just a standard layout with not many options for dual-functions. When you start typing, though--that's when the magic happens. Each letter you tap will cause the phone to display suggested words above the letter it thinks you're most likely to type next. I tried my hand at banging out a few messages and I often found myself staring right at the word sitting on the tip of my tongue. It's honestly an uncanny feeling, almost as if the device was reading my mind.
+In addition, there’s the ability to swipe upwards on predicted words to add them to the message body. The new keyboard is supposed to help you to input text more efficiently, as well as use a modelling algorithm that will tailor itself to your typing habits over time. It’s similar to what’s already on the PlayBook, only more intuitive to use.
+Finally, you’ll find the microSD slot, microHDMI and microUSB ports on the left side. The Dev Alpha packs some 16GB of non-expandable onboard storage and 1GB of RAM, as well as a non-removable battery. Connectivity-wise, there’s the usual suite of options like Bluetooth, Wi-Fi, Internet tethering and near-field communications (NFC). Unfortunately, there’s no SIM card slot.
+If RIM’s final BB 10 devices look as good as the Dev Alpha--and actually run BB 10 OS smoothly--we feel pretty upbeat about its chances in the market. Let’s just hope it doesn’t follow the footsteps of the PlayBook, which received rave reviews when it was announced, but failed to perform when released.
+To see the keyboard, and other features on BB 20, click on the video below.
+
+Jacqueline Seng is a presenter/writer for CNET Asia, focusing on mobile phones. Her induction into the world of IT involved typing out stories on a computer in kindergarten--not that much has changed. The only girl on the editorial team (for now), she is also an avid potato chip connoisseur, heist movie enthusiast and indie/hiphop music aficionado.
+Sign In withFacebookorcreate an accountto post a review.
+The posting of advertisements, profanity, or personal attacks is prohibited.
+Crave, the gadget blog from CNET Asia
+3.95 stars
+4.75 stars
+3.95 stars
+©  2012 CBS Interactive. All rights reserved.Privacy Policy|Terms of Use

@@ -1,0 +1,24 @@
+Calls for mortgage assistance get louder in Washington
+(AFP)
+–1 hour agoif (gbar.lPWF) {
+                        gbar.lPWF(function() {
+                          gapi.plusone.render('plusone-div',
+                              { "size" : "small",
+                                "count" : "true",
+                                "href" : "http://www.google.com/hostednews/afp/article/ALeqM5jC151zvqxH3CZohTAWL2gpU7nHgQ?docId\x3dCNG.c4f2ddbb599a615c3a46d2a65261e5be.221"
+                              });
+                        });
+                      }
+                      sandbarSharebox.registerMicrodataParser(
+                          window.top, document.getElementById('hostednews-article'));
+HONG KONG &#x2014; US gaming mogul Steve Wynn said on Wednesday his Macau business had received approval to build a new casino in the southern Chinese city, the world's biggest gaming hub.
+Construction could now begin at the of 21-hectare (51-acre) site on Macau's Cotai Strip, he said in a statement on US-based Wynn Resorts' website.
+"The official transfer of real estate in Cotai makes possible the commencement of the construction phase, of what will be the single most important project in the history of Wynn Resorts," Wynn said.
+No other details were provided but local unit Wynn Macau has said previously the new casino could open as early as 2013, and the property would include a hotel and about 450 gambling tables.
+Wynn Macau is one of six firms licensed to operate casinos in Macau, which was handed back to Beijing in 1999 and remains the only Chinese city where casino gambling is allowed.
+The city's no-frills gaming scene was monopolised by 89-year-old tycoon Stanley Ho for decades until it opened to foreign competition in 2002 and took on all the glitz and kitschy glamour of Las Vegas.
+It has now leap-frogged the US city to become the world's most lucrative casino market, with gambling revenues hitting a record $33.47 billion in 2011.
+US companies have flooded into the semi-autonomous former Portuguese colony, lured by the massive market of gambling-mad visitors from nearby Hong Kong and mainland China.
+Rivals such as Las Vegas Sands opened its fourth casino in the city last month, in the form of a $5 billion integrated resort.
+Copyright ©  2012   AFP. All rights reserved.More »
+Steve Wynn, Chairman and CEO of Wynn Resorts Limited (AFP/File, Mike Clarke)

@@ -1,0 +1,71 @@
+Start-Ups Look to the Crowd
+Facebook, iPhone, Twitter and Wii. Technology evolves at the speed of light. Msnbc.com's tech reporters look at the gadgets, games and innovations changing our world.
+Advertise|AdChoices
+5hrs.
+Staff, SecurityNewsDaily, SecurityNewsDaily
+
+We know know who the Mac Flashback malware infection hurt the most: Google.
+Symantec researchers dug into the code ofthe Flashback variantthat exploited a Java software flaw and infected approximately 600,000 
+Macs in late March. The researchers found a rather mundane payload —a piece of click-jacking codethat redirected Google ad clicks to sites determined by the attackers.
+Google never got the revenue for the redirected clicks, while the 
+attackers made 0.8 cents for each one. Symantec's back-of-the-envelope 
+math estimates that at its peak, the click-jacking scheme could have 
+made the attackers $10,000 per day.
+Advertise|AdChoices
+Advertise|AdChoices
+In other Flashback news,the Russian security firm Dr. Webcaptured much of the communications traffic that the infected machines 
+were sending back to their cybercriminal command-and-control servers.
+They found that more than 60 percent of the machines infected with 
+Flashback were running Mac OS X 10.6 Snow Leopard, and about 25 percent 
+were running Mac OS X 10.5 Leopard, which is no longer supported by 
+Apple.
+[How Far Behind Is Apple's Security?]
+Slightly more than 11 percent of the infected Macs were running the 
+most recent version, Mac OS X 10.7 Lion. That's not because Lion users 
+are smarter; it's because Apple, knowing how dodgy Java security can be,
+ decided to remove Java from the default installation of Lion. (Lion 
+users can install Java separately.)
+Finally, Microsoft piled onto Mac users as well, witha blog postingdetailing how plenty of Macs are still vulnerable to an Office for Mac flaw that was patched back in June 2009.
+(MSNBC.com is a joint venture of Microsoft and NBC Universal.)
+This is the same flaw that presumably Chinese attackers have used to 
+attack Tibetan and Japanese Mac users, and its prevalence shows how many
+ Mac users are still completely oblivious to the risks they take by not 
+updating their software.
+Lion users aren't at risk for that particular flaw, Microsoft notes, sinceLion's NX (non-executable memory) featuremeans that the Office software can't be changed while it's running.
+All this news essentially says one thing: If you're a Mac user running 
+Snow Leopard or Lion, there's no excuse not to update your software. 
+Doing so will patch the Microsoft flaw, clean your machine of Flashback 
+and give Google the revenue it deserves.
+If you're running Leopard — and PowerPC Mac users don't have any other 
+choice — Apple doesn't care about you anymore. (Microsoft does, so apply
+ the Office patch anyway.)Disable Javaas much as you can, and installMac-specific anti-virus software.
+
+1day
+Paul Wagenseil, SecurityNewsDaily Managing Editor
+19days
+Suzanne Choney
+13days
+Paul Wagenseil, SecurityNewsDaily
+Close post
+window.Ijv = window.Ijv || {};
+
+            window.Ijv.skypadAssetsHost = "http://assets1c.msnbc.msn.com/";window.Ijv.CustomAd.setRenderContentUrl(
+                '/advertising/streams/RenderCustomAdContent');
+
+            window.Ijv.FormFactorCookie.setDesktopDomain('www.technolog.msnbc.msn.com');
+            window.Ijv.FormFactorCookie.setMobileDomain('m.technolog.msnbc.msn.com');
+            
+            (function () {
+                var googleAnalyticsSettings = {"Enabled":true,"Account":"UA-29374345-1","DomainName":".msnbc.msn.com","SampleRate":"100"};
+
+               if (googleAnalyticsSettings.Enabled) {
+                   Ijv.GoogleAnalyticsHelper
+                       .loadAccount(googleAnalyticsSettings);
+               }
+
+               var omnitureSettings = {"Enabled":true,"Name":"msnbcom","IsDefault":true,"KeyMappings":{"prop4":"section","prop5":"subSection","prop16":"pageType","prop24":"streamConfigId","prop45":"getTrafficType","eVar1":"pageName","eVar2":"section","eVar10":"subSection","pageName":"pageName"},"InitialValues":{"section":"Technology & science","subSection":"technolog","pageName":"stream|technolog|technolog|entries|746900","pageType":"stream","cookieDomainPeriods":"2","disableLegacyVars":true,"charSet":"ISO-8859-1","currencyCode":"USD","trackDownloadLinks":true,"trackExternalLinks":true,"trackInlineStats":true,"linkDownloadFileTypes":"exe,zip,wav,mp3,mov,mpg,avi,wmv,pdf,doc,docx,xls,xlsx,ppt,pptx","linkInternalFilters":"javascript:,msnbc.msn.com,today.com,today.msnbc.msn.com,today.msnbc.com,todayshow.com,msnbc.com,nbcsports.com,newsvine.com,nbcsports.msnbc.msn.com,nbcsports.msnbc.com,cagle.com","linkLeaveQueryString":false,"visitorSamplingGroup":"1"},"BasePageName":"stream|technolog|technolog"};
+
+               if (omnitureSettings.Enabled) {
+                   Ijv.OmnitureHelper.loadAccount(omnitureSettings);
+               }
+           })();No desktop ad found for placement: PageBottom

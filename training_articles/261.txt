@@ -1,0 +1,20 @@
+Rimac Concept_One EV now a reality: cash in those stock options (video)
+Smartphone photo-sharing app Instagram has struck a chord with users, making it easy to snap, modify and share their images, but one of its most impressive features is the ability to upload those photos in a super-quick fashion.
+Karly Domb, AP
+Part of Instagram's success is its blazing upload speed.
+Karly Domb, AP
+Part of Instagram's success is its blazing upload speed.
+Instagram might now be part of theFacebook stable, and about to see input from staff employed for the world's largest social network, but the app's original creators Mike Krieger and Kevin Systrom knew that one of the keys to success was to make its "mobile experiences feel lightning-fast," filling in gaps while their users worked within the app.
+In a presentation at Warm Gun 2011last December, Krieger detailed how Instagram's iOS app was designed to process any form of input as it is entered, "moving bits in the background" as the user interacts with the app's various features.
+What Instagram does is to upload the image as soon as the user selects the filter and hits the green tick, entering the sharing screen — regardless of if you post it or not. The app makes "two requests, two round-trips," sending the data as soon as part of it is ready to go, matching up the rest of the data later.
+Instagram's Krieger stated in his presentation in December that it is "worth it, even if you throw out the data on cancel."
+The latest news about Internet technology, business and culture.
+What you see as the user is a super-quick upload as soon as you hit 'Done', but behind the scenes the app works to process your data, as you enter it. It's just one of the small things that helped the app reach 50 million users on just two platforms, leading to a$1 billion acquisition by Facebook.
+This story originally appeared on The Next Web.
+More The Next Web
+Instagram for Android hits 10 million downloads in 22 days, as the service nears 50 million total users
+Facebook promised Instagram $200 million if the acquisition gets whacked by the government
+How not to run an Instagram account: Vogue Spain caught stealing from well-known street photographer
+Posteddocument.write(niceDate("5/1/2012 12:23 PM"));| Updateddocument.write(niceDate("5/1/2012 12:24 PM"));
+Advertisement
+© 2012 USA TODAY, a division ofGannett Co. Inc.

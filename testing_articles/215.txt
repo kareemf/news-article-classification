@@ -1,0 +1,10 @@
+Google engineer in Street View probe identifies as a 'hacker'
+Site Theme:
+Choose body font:
+RIM showed off elements of its upcoming BlackBerry 10 operating system at the BlackBerry World 2012 conference Tuesday. The QNX-based BB10 will include some slick new gesture-based navigations, a new keyboard, and some interesting camera functionality. The new software development kit also includes features that should make porting and developing apps easier for developers.
+Keyboards have always been central to the BlackBerry brand, though RIM hasn'tadapted so wellto the move to touch-based interfaces. The new virtual keyboard interface is able to adapt to the typing habits of users, and uses SwiftKey-like technology seen on the QNX-basedBlackBerry PlayBookthat lets users swipe backward to delete whole words, or swipe forward to fill in partially typed ones. Upward swipes on the keyboard will change its layout to make symbols or numbers accessible.
+The use of gestures extends to the multitasking front. In BB10, users can swipe left to right across the whole screen to view other apps that are running in the background, and use the swipe to settle on a background application if desired.
+Another intriguing feature is in the camera app, meant to compensate for people who aren't good at timing photos. If users time a photo incorrectly, they are able to page backward in time on the camera to an earlier version of the photo, as if the camera was taking shots continuously before the shutter button was actually pressed.
+On the developer side, the BlackBerry native SDK has a C/C++ app framework, and should allow users to port OpenGL-based apps easily, according to RIM. A new set of development tools named Cascades that use C/C++ and the Qt framework will provide developers with standard UI elements, similar to what they've been able to get with Android or iOS, which will help speed along the development process.
+BB10 is available for developers as of today, though the first BB10 phone is not set for launch until October.
+Disable Facebook on Ars
